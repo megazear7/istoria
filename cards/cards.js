@@ -52,30 +52,12 @@ function makeCards() {
 
     cards = cards.concat(objectiveCards());
 
-    return cards;
-}
-
-
-function times(count, card) {
-    var cards = [];
-    for (var i = 0; i < count; i++) {
-        cards = cards.concat(card);
-    }
-    return cards;
-}
-
-function flatten(cardsToAdd) {
-    var cards = [];
-
-    for (var i = 0; i < cardsToAdd.length; i++) {
-        if (cardsToAdd[i].length && cardsToAdd[i].length > 0) {
-            for (var j = 0; j < cardsToAdd[i].length; j++) {
-                cards = cards.concat(cardsToAdd[i][j]);
-            }
-        } else {
-            cards = cards.concat(cardsToAdd[i]);
+    var finalCards = [];
+    for (var i = 0; i < cards.length; i++) {
+        var card = cards[i];
+        if (card.print) {
+            finalCards.push(card);
         }
     }
-
-    return cards;
+    return finalCards;
 }

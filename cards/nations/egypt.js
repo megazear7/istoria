@@ -4,9 +4,9 @@ function egyptianCards() {
             "cardType": "city",
             "title": "Menes",
             "subTitle": "Egypt - Starting City",
-            "placement": "city_placement",
+            "placement": "city",
             "image": "mystic",
-            "print": false,
+            "print": true,
             "combat": {
                 "defense": 14
             },
