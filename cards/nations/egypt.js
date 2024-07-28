@@ -17,9 +17,9 @@ function egyptianCards() {
             "cardType": "fortification",
             "title": "Walls of the Ruler",
             "subTitle": "Egypt - Starting Fort",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "mystic",
-            "print": false,
+            "print": true,
             "bottomCombat": {
                 "init": 6,
                 "attack": 1,
@@ -31,9 +31,9 @@ function egyptianCards() {
             "cardType": "city",
             "title": "Thebes",
             "subTitle": "Egypt - City 2",
-            "placement": "city_placement",
+            "placement": "city",
             "image": "mystic",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "food", "costVal": 2 }
             ],
@@ -47,9 +47,9 @@ function egyptianCards() {
             "cardType": "city",
             "title": "Memphis",
             "subTitle": "Egypt - City 3",
-            "placement": "city_placement",
+            "placement": "city",
             "image": "mystic",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "food", "costVal": 4 }
             ],
@@ -64,9 +64,9 @@ function egyptianCards() {
             "cardType": "city",
             "title": "Abydos",
             "subTitle": "Egypt - City 4",
-            "placement": "city_placement",
+            "placement": "city",
             "image": "mystic",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "food", "costVal": 6 }
             ],
@@ -81,10 +81,10 @@ function egyptianCards() {
             "subType": "military",
             "title": "Pharaoh's Guard",
             "subTitle": "Egypt - Starting Military",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "rome-statue",
-            "print": false,
-            "mod": [ "increase_max_army_size", "increase_max_army_size", "increase_max_army_size", "increase_max_army_size", "army_placement" ],
+            "print": true,
+            "mod": [ "increase_max_army_size", "increase_max_army_size", "increase_max_army_size", "increase_max_army_size", "army" ],
             "ability": "You may not build mounted troops. All foot troops cost 1 extra wealth but have their initiative reduced by 1.",
             "abilitySymbol": "start"
         }, {
@@ -92,15 +92,15 @@ function egyptianCards() {
             "subType": "military",
             "title": "Pharoh's March",
             "subTitle": "Egypt",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "rome-statue",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 3 },
                 { "costType": "stone", "costVal": 3 }
             ],
-            "mod": [ "increase_max_army_size", "increase_max_army_size", "army_placement" ],
+            "mod": [ "increase_max_army_size", "increase_max_army_size", "army" ],
             "ability": "Start of gather phase: You may not build mounted troops. Pay 1 wealth to place your army adjacent to your opponents capital.",
             "abilitySymbol": "start"
         }, {
@@ -108,15 +108,15 @@ function egyptianCards() {
             "subType": "military",
             "title": "War Chariot",
             "subTitle": "Egypt",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "rome-statue",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 2 },
                 { "costType": "stone", "costVal": 2 }
             ],
-            "mod": [ "increase_max_army_size", "increase_max_army_size", "army_placement" ],
+            "mod": [ "increase_max_army_size", "increase_max_army_size", "army" ],
             "ability": "You may build mounted troops. All mounted troops cost 1 extra wealth but do 1 extra damage and have 1 extra defense.",
             "abilitySymbol": "start"
         }, {
@@ -124,15 +124,15 @@ function egyptianCards() {
             "subType": "military",
             "title": "Sea Peoples Attack",
             "subTitle": "Egypt",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "rome-statue",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 2 },
                 { "costType": "stone", "costVal": 2 }
             ],
-            "mod": [ "increase_max_army_size", "increase_max_army_size", "army_placement" ],
+            "mod": [ "increase_max_army_size", "increase_max_army_size", "army" ],
             "ability": "Upon researching: Remove your largest army. Gain 1 wealth for each card and search the military building deck for a fortification and build it for free.",
             "abilitySymbol": "start"
         }, {
@@ -140,9 +140,9 @@ function egyptianCards() {
             "subType": "civic",
             "title": "Flooding of the Nile",
             "subTitle": "Egypt - Starting Civic",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "carved-entry",
-            "print": false,
+            "print": true,
             "mod": [ "increase_city_limit" ],
             "ability": "Start of gather phase: Place 1 food from the supply onto this card. If this is the 3rd food on the card, gather this food to your supply.",
             "abilitySymbol": "start"
@@ -151,9 +151,9 @@ function egyptianCards() {
             "subType": "civic",
             "title": "Pyarmid Building",
             "subTitle": "Egypt",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "carved-entry",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wood", "costVal": 2 },
@@ -167,9 +167,9 @@ function egyptianCards() {
             "subType": "civic",
             "title": "Corvee Labor",
             "subTitle": "Egypt",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "carved-entry",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wood", "costVal": 2 },
@@ -183,9 +183,9 @@ function egyptianCards() {
             "subType": "civic",
             "title": "Hieroglyphs",
             "subTitle": "Egypt",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "carved-entry",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wood", "costVal": 2 },
@@ -199,9 +199,9 @@ function egyptianCards() {
             "subType": "commerce",
             "title": "Grain Storage",
             "subTitle": "Egypt - Starting Commerce",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "merchant",
-            "print": false,
+            "print": true,
             "mod": [ "increase_max_income", "increase_max_income", "increase_max_income" ],
             "ability": "Start of gather phase: If you have no food, gain 1 food.",
             "abilitySymbol": "start"
@@ -210,9 +210,9 @@ function egyptianCards() {
             "subType": "commerce",
             "title": "Minoan Traders",
             "subTitle": "Egypt",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "merchant",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 1 },
@@ -226,9 +226,9 @@ function egyptianCards() {
             "subType": "commerce",
             "title": "Kingly Gifts",
             "subTitle": "Egypt",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "merchant",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 1 },
@@ -242,9 +242,9 @@ function egyptianCards() {
             "subType": "commerce",
             "title": "Coinage",
             "subTitle": "Egypt",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "merchant",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 1 },
@@ -258,9 +258,9 @@ function egyptianCards() {
             "subType": "science",
             "title": "Divine Pharaoh",
             "subTitle": "Egypt - Starting Science",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "monk",
-            "print": false,
+            "print": true,
             "mod": [ "increase_hand_limit", "increase_hand_limit", "knowledge", "knowledge" ],
             "ability": "After building a city draw and recruit two foot troop cards for free",
             "abilitySymbol": "start"
@@ -269,9 +269,9 @@ function egyptianCards() {
             "subType": "science",
             "title": "Khopesh",
             "subTitle": "Egypt",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "monk",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 1 },
@@ -285,9 +285,9 @@ function egyptianCards() {
             "subType": "science",
             "title": "Egyptian Faience",
             "subTitle": "Egypt",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "monk",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 1 },
@@ -301,9 +301,9 @@ function egyptianCards() {
             "subType": "science",
             "title": "Wooden Scaffolding",
             "subTitle": "Egypt",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "monk",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 2 },

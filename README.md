@@ -1,3 +1,4 @@
-Use `legacy-of-nations-card-maker.js` for now. Need to move to photofoundry when able.
-
-Still having issues with getting the script to work.
+Use `create-cards.js`. Still working through converting to photofoundry.
+Once fully converted and all cards can be created with photofoundry, then update to older version of game
+Then, figure out how to add images from ai
+Then, create images for every card and upload them somewhere to get printed
