@@ -227,14 +227,18 @@ function savePdf(sheetName, folder) {
 }
 
 function copyToReference(elementName, locRef) {
-    var elementRef = elements.layers[elementName];
-    var copiedElement = elementRef.duplicate(copiedElements, ElementPlacement.PLACEATEND);
-    groupLayer(copiedElement);
-    var rasterizedElement = mergeGroup();
-    resizeByRef(rasterizedElement, locRef);
-    moveToReference(rasterizedElement, locRef);
-    rasterizedElement.visible = true;
-    locRef.visible = false;
+    try {
+        var elementRef = elements.layers[elementName];
+        var copiedElement = elementRef.duplicate(copiedElements, ElementPlacement.PLACEATEND);
+        groupLayer(copiedElement);
+        var rasterizedElement = mergeGroup();
+        resizeByRef(rasterizedElement, locRef);
+        moveToReference(rasterizedElement, locRef);
+        rasterizedElement.visible = true;
+        locRef.visible = false;
+    } catch (e) {
+        alert("Could not find element: " + elementName);
+    }
 }
 
 function doesLayerExist(layers, name) {

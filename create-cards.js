@@ -6,7 +6,8 @@ photofoundry(makeCards(), {
     rows: 1,
     clean: makeCards()[0],
     mapping: mapping,
-    folder: "dist"
+    folder: "dist",
+    alert: true
 });
 
 function mapping(item) {
@@ -16,7 +17,6 @@ function mapping(item) {
         toggles: [
             background,
             "border",
-            "square_parchment",
             "title_background",
             "stone_circle_right",
             "stone_circle_left",
@@ -63,11 +63,44 @@ function mapping(item) {
         }
     }
 
+    // TODO
+    // if (item.bottomCombat) {
+    //     newItem.toggles.push("square_parchment");
+
+    //     if (item.combat.init) {
+    //         newItem.toggles.push("init");
+    //         newItem.text["init"] = item.combat.init;
+    //     }
+
+    //     if (item.combat.attackType === "ranged") {
+    //         newItem.toggles.push("ranged");
+    //         newItem.text["attack"] = item.combat.attack;
+    //     } else if (item.combat.attackType === "melee") {
+    //         newItem.toggles.push("melee");
+    //         newItem.text["attack"] = item.combat.attack;
+    //     }
+
+    //     if (item.combat.defense) {
+    //         newItem.toggles.push("armor");
+    //         newItem.text["defense"] = item.combat.defense;
+    //     }
+    // }
+
     if (item.cost) {
         for (var i = 0; i < item.cost.length; i++) {
             var entry = item.cost[i];
             newItem.elements["cost_"+(i+1)] = entry.costType;
             newItem.text["cost_"+(i+1)] = entry.costVal;
+        }
+    }
+
+    if (item.mod) {
+        newItem.toggles.push("square_parchment");
+
+        for (var i = 0; i < item.mod.length; i++) {
+            var mod = item.mod[i];
+            var modLength = item.mod.length;
+            newItem.elements["bottom_mod_"+modLength+"_"+(i+1)] = mod;
         }
     }
 

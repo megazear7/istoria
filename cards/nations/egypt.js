@@ -77,7 +77,7 @@ function egyptianCards() {
             "ability": "Upon building: Research 1 research card at half cost, rounded down.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "subType": "military",
             "title": "Pharaoh's Guard",
             "subTitle": "Egypt - Starting Military",
@@ -88,7 +88,7 @@ function egyptianCards() {
             "ability": "You may not build mounted troops. All foot troops cost 1 extra wealth but have their initiative reduced by 1.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "subType": "military",
             "title": "Pharoh's March",
             "subTitle": "Egypt",
@@ -104,7 +104,7 @@ function egyptianCards() {
             "ability": "Start of gather phase: You may not build mounted troops. Pay 1 wealth to place your army adjacent to your opponents capital.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "subType": "military",
             "title": "War Chariot",
             "subTitle": "Egypt",
@@ -120,7 +120,7 @@ function egyptianCards() {
             "ability": "You may build mounted troops. All mounted troops cost 1 extra wealth but do 1 extra damage and have 1 extra defense.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "subType": "military",
             "title": "Sea Peoples Attack",
             "subTitle": "Egypt",
@@ -136,7 +136,7 @@ function egyptianCards() {
             "ability": "Upon researching: Remove your largest army. Gain 1 wealth for each card and search the military building deck for a fortification and build it for free.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "subType": "civic",
             "title": "Flooding of the Nile",
             "subTitle": "Egypt - Starting Civic",
@@ -147,7 +147,7 @@ function egyptianCards() {
             "ability": "Start of gather phase: Place 1 food from the supply onto this card. If this is the 3rd food on the card, gather this food to your supply.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "subType": "civic",
             "title": "Pyarmid Building",
             "subTitle": "Egypt",
@@ -163,7 +163,7 @@ function egyptianCards() {
             "ability": "Build wonders for 4 less resources",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "subType": "civic",
             "title": "Corvee Labor",
             "subTitle": "Egypt",
@@ -179,7 +179,7 @@ function egyptianCards() {
             "ability": "Requires 3 military research. Skip your recruit and deploy phase to build one civic building for free.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "subType": "civic",
             "title": "Hieroglyphs",
             "subTitle": "Egypt",
@@ -195,7 +195,7 @@ function egyptianCards() {
             "ability": "Once per turn: Spend 5 stone to gain 1 VP.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "subType": "commerce",
             "title": "Grain Storage",
             "subTitle": "Egypt - Starting Commerce",
@@ -206,7 +206,7 @@ function egyptianCards() {
             "ability": "Start of gather phase: If you have no food, gain 1 food.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "subType": "commerce",
             "title": "Minoan Traders",
             "subTitle": "Egypt",
@@ -222,7 +222,7 @@ function egyptianCards() {
             "ability": "Upon researching: Draw one research card from an opponents deck and add it to your hand. Draw cards from your deck until you find a card of the same type. Add it to the opponents deck.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "subType": "commerce",
             "title": "Kingly Gifts",
             "subTitle": "Egypt",
@@ -238,7 +238,7 @@ function egyptianCards() {
             "ability": "Start of gather phase: Give an opponent 3 wealth. Gather 6 resources of food, wood, or stone.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "subType": "commerce",
             "title": "Coinage",
             "subTitle": "Egypt",
@@ -254,7 +254,7 @@ function egyptianCards() {
             "ability": "Gather phase: Exchange 1 wealth for 2 wood or stone.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "subType": "science",
             "title": "Divine Pharaoh",
             "subTitle": "Egypt - Starting Science",
@@ -265,7 +265,7 @@ function egyptianCards() {
             "ability": "After building a city draw and recruit two foot troop cards for free",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "subType": "science",
             "title": "Khopesh",
             "subTitle": "Egypt",
@@ -281,7 +281,7 @@ function egyptianCards() {
             "ability": "Increase damage of foot troop cards by 1.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "subType": "science",
             "title": "Egyptian Faience",
             "subTitle": "Egypt",
@@ -297,7 +297,7 @@ function egyptianCards() {
             "ability": "Place 1 stone on this card per turn. After placing the 3rd stone on this card, gather this stone.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "subType": "science",
             "title": "Wooden Scaffolding",
             "subTitle": "Egypt",
