@@ -19,9 +19,7 @@ function mapping(item) {
             "border",
             "title_background",
             "stone_circle_right",
-            "stone_circle_left",
-            "cost_background",
-            "square_parchment"
+            "stone_circle_left"
         ],
         text: {
             title: item.title ? item.title : "",
@@ -58,35 +56,49 @@ function mapping(item) {
         }
 
         if (item.combat.defense) {
-            newItem.toggles.push("armor");
+            newItem.toggles.push("defense");
             newItem.text["defense"] = item.combat.defense;
         }
     }
 
-    // TODO
-    // if (item.bottomCombat) {
-    //     newItem.toggles.push("square_parchment");
+    if (item.subType) {
+        newItem.elements["sub_type"] = item.subType;
+    }
 
-    //     if (item.combat.init) {
-    //         newItem.toggles.push("init");
-    //         newItem.text["init"] = item.combat.init;
-    //     }
+    if (item.bottomCombat) {
+        newItem.toggles.push("square_parchment");
+        newItem.toggles.push("bottom_mod_background");
 
-    //     if (item.combat.attackType === "ranged") {
-    //         newItem.toggles.push("ranged");
-    //         newItem.text["attack"] = item.combat.attack;
-    //     } else if (item.combat.attackType === "melee") {
-    //         newItem.toggles.push("melee");
-    //         newItem.text["attack"] = item.combat.attack;
-    //     }
+        if (item.bottomCombat.init) {
+            newItem.toggles.push("bottom_init");
+            newItem.text["bottom_init"] = item.bottomCombat.init;
+        }
 
-    //     if (item.combat.defense) {
-    //         newItem.toggles.push("armor");
-    //         newItem.text["defense"] = item.combat.defense;
-    //     }
-    // }
+        if (item.bottomCombat.attackType === "ranged") {
+            newItem.toggles.push("bottom_ranged");
+            newItem.text["bottom_attack"] = item.bottomCombat.attack;
+        } else if (item.bottomCombat.attackType === "melee") {
+            newItem.toggles.push("bottom_melee");
+            newItem.text["bottom_attack"] = item.bottomCombat.attack;
+        }
+
+        if (item.bottomCombat.defense) {
+            newItem.toggles.push("bottom_defense");
+            newItem.text["bottom_defense"] = item.bottomCombat.defense;
+        }
+
+        if (item.mod && item.mod.length === 1) {
+            newItem.elements["bottom_mod_combat"] = item.mod[0];
+        }
+        
+        if (item.mod && item.mod.length >= 2) {
+            throw new Error("If bottom combat is defined, mod must only have at most one item.");
+        }
+    }
 
     if (item.cost) {
+        newItem.toggles.push("cost_background");
+
         for (var i = 0; i < item.cost.length; i++) {
             var entry = item.cost[i];
             newItem.elements["cost_"+(i+1)] = entry.costType;
@@ -94,8 +106,9 @@ function mapping(item) {
         }
     }
 
-    if (item.mod) {
+    if (item.mod && !item.bottomCombat) {
         newItem.toggles.push("square_parchment");
+        newItem.toggles.push("bottom_mod_background");
 
         for (var i = 0; i < item.mod.length; i++) {
             var mod = item.mod[i];
