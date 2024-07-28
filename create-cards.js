@@ -23,13 +23,21 @@ function mapping(item) {
         ],
         text: {
             title: item.title ? item.title : "",
-            sub_title: item.subTitle ? item.subTitle : "",
-            desc: item.ability ? item.ability : ""
+            sub_title: item.subTitle ? item.subTitle : ""
         },
         elements: {
         },
         print: !! item.print
     };
+
+    if (item.ability) {
+        newItem.toggles.push("desc_background");
+        if (item.ability.length > 136) {
+            newItem.text.desc_long = item.ability;
+        } else {
+            newItem.text.desc = item.ability;
+        }
+    }
 
     if (item.placement) {
         newItem.elements["placement"] = item.placement;
@@ -117,8 +125,10 @@ function mapping(item) {
         }
     }
 
-    if (item.ability) {
-        newItem.toggles.push("desc_background");
+    if (item.vps) {
+        newItem.toggles.push("middle_mod_background");
+        newItem.elements["vps"] = "victory_point";
+        newItem.text["vps"] = item.vps;
     }
 
     return newItem;
