@@ -2,6 +2,7 @@ function babylonianCards() {
     return flatten([
         {
             "cardType": "city",
+            "folder": "nations/babylon",
             "title": "Babylon",
             "subTitle": "Babylon - Starting City",
             "placement": "city_placement",
@@ -15,6 +16,7 @@ function babylonianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "fortification",
+            "folder": "nations/babylon",
             "title": "Towers of Babylon",
             "subTitle": "Babylon - Starting Fort",
             "placement": "building_placement",
@@ -29,6 +31,7 @@ function babylonianCards() {
             "mod": [ "attrition" ]
         }, {
             "cardType": "city",
+            "folder": "nations/babylon",
             "title": "Sippar",
             "subTitle": "Babylon - City 2",
             "placement": "city_placement",
@@ -45,6 +48,7 @@ function babylonianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "city",
+            "folder": "nations/babylon",
             "title": "Isin",
             "subTitle": "Babylon - City 3",
             "placement": "city_placement",
@@ -62,6 +66,7 @@ function babylonianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "city",
+            "folder": "nations/babylon",
             "title": "Nippur",
             "subTitle": "Babylon - City 4",
             "placement": "city_placement",
@@ -78,6 +83,7 @@ function babylonianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/babylon",
             "subType": "military",
             "title": "Hammurabi's Rule",
             "subTitle": "Babylon - Starting Military",
@@ -89,6 +95,7 @@ function babylonianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/babylon",
             "subType": "military",
             "title": "Kassite Domination",
             "subTitle": "Babylon",
@@ -105,6 +112,7 @@ function babylonianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/babylon",
             "subType": "military",
             "title": "Inheritors of Sargon",
             "subTitle": "Babylon",
@@ -121,6 +129,7 @@ function babylonianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/babylon",
             "subType": "military",
             "title": "Bladed Mace",
             "subTitle": "Babylon",
@@ -137,6 +146,7 @@ function babylonianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/babylon",
             "subType": "civic",
             "title": "Gate of the Gods",
             "subTitle": "Babylon - Starting Civic",
@@ -148,6 +158,7 @@ function babylonianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/babylon",
             "subType": "civic",
             "title": "Love of Ishtar",
             "subTitle": "Babylon",
@@ -164,6 +175,7 @@ function babylonianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/babylon",
             "subType": "civic",
             "title": "Hammurabi's Law Code",
             "subTitle": "Babylon",
@@ -180,6 +192,7 @@ function babylonianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/babylon",
             "subType": "civic",
             "title": "Hanging Gardens",
             "subTitle": "Babylon",
@@ -196,6 +209,7 @@ function babylonianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/babylon",
             "subType": "commerce",
             "title": "Gifts to the Ziggurat",
             "subTitle": "Babylon - Starting Commerce",
@@ -207,6 +221,7 @@ function babylonianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/babylon",
             "subType": "commerce",
             "title": "Boats of Euphrate",
             "subTitle": "Babylon",
@@ -223,6 +238,7 @@ function babylonianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/babylon",
             "subType": "commerce",
             "title": "Pharaoh's Gift",
             "subTitle": "Babylon",
@@ -238,6 +254,7 @@ function babylonianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/babylon",
             "subType": "commerce",
             "title": "Land Tax",
             "subTitle": "Babylon",
@@ -254,6 +271,7 @@ function babylonianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/babylon",
             "subType": "science",
             "title": "City Judges",
             "subTitle": "Babylon - Starting Science",
@@ -265,6 +283,7 @@ function babylonianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/babylon",
             "subType": "science",
             "title": "Zapping Pots",
             "subTitle": "Babylon",
@@ -281,6 +300,7 @@ function babylonianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/babylon",
             "subType": "science",
             "title": "Plow of Ninurta",
             "subTitle": "Babylon",
@@ -297,6 +317,7 @@ function babylonianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/babylon",
             "subType": "science",
             "title": "Dividing the Circle",
             "subTitle": "Babylon",

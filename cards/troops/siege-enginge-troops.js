@@ -2,6 +2,7 @@ function siegeEngines() {
     return flatten([
         times(1, {
             "cardType": "siege_engine",
+            "folder": "troops/siege-engine",
             "title": "Caravan",
             "placement": "army_placement",
             "image": "default",
@@ -19,6 +20,7 @@ function siegeEngines() {
         }),
         times(1, {
             "cardType": "siege_engine",
+            "folder": "troops/siege-engine",
             "title": "Caravan",
             "placement": "army_placement",
             "image": "default",
@@ -34,6 +36,7 @@ function siegeEngines() {
         }),
         times(1, {
             "cardType": "siege_engine",
+            "folder": "troops/siege-engine",
             "title": "Caravan",
             "placement": "army_placement",
             "image": "default",
@@ -49,6 +52,7 @@ function siegeEngines() {
         }),
         times(1, {
             "cardType": "siege_engine",
+            "folder": "troops/siege-engine",
             "title": "Caravan",
             "placement": "army_placement",
             "image": "default",
@@ -64,6 +68,7 @@ function siegeEngines() {
         }),
         times(4, {
             "cardType": "siege_engine",
+            "folder": "troops/siege-engine",
             "title": "Catapult",
             "placement": "army_placement",
             "image": "default",
@@ -82,6 +87,7 @@ function siegeEngines() {
         }),
         times(4, {
             "cardType": "siege_engine",
+            "folder": "troops/siege-engine",
             "title": "Trebuchet",
             "placement": "army_placement",
             "image": "default",
@@ -101,6 +107,7 @@ function siegeEngines() {
         }),
         times(8, {
             "cardType": "siege_engine",
+            "folder": "troops/siege-engine",
             "title": "Supply wagon",
             "placement": "army_placement",
             "image": "default",

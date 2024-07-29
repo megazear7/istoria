@@ -2,6 +2,7 @@ function romanRepublicCards() {
     return flatten([
         {
             "cardType": "city",
+            "folder": "nations/roman-republic",
             "title": "Rome",
             "subTitle": "Rome - Starting City",
             "placement": "city_placement",
@@ -16,6 +17,7 @@ function romanRepublicCards() {
             "desc": "Rome, the Eternal City. Might of the Great Empire. The seat of emperors and popes."
         }, {
             "cardType": "fortification",
+            "folder": "nations/roman-republic",
             "title": "Romn Fort",
             "subTitle": "Rome - Starting Fort",
             "placement": "building_placement",
@@ -30,6 +32,7 @@ function romanRepublicCards() {
             "mod": [ "attrition" ]
         }, {
             "cardType": "city",
+            "folder": "nations/roman-republic",
             "title": "Carthage",
             "subTitle": "Rome - City 2",
             "placement": "city_placement",
@@ -46,6 +49,7 @@ function romanRepublicCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "city",
+            "folder": "nations/roman-republic",
             "title": "Trier",
             "subTitle": "Rome - City 3",
             "placement": "city_placement",
@@ -61,6 +65,7 @@ function romanRepublicCards() {
             "mod": [ "wood" ]
         }, {
             "cardType": "city",
+            "folder": "nations/roman-republic",
             "title": "Nimes",
             "subTitle": "Rome - City 4",
             "placement": "city_placement",
@@ -77,6 +82,7 @@ function romanRepublicCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/roman-republic",
             "subType": "military",
             "title": "Recruitment",
             "subTitle": "Rome - Starting Military",
@@ -88,6 +94,7 @@ function romanRepublicCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/roman-republic",
             "subType": "military",
             "title": "Forges",
             "subTitle": "Rome",
@@ -104,6 +111,7 @@ function romanRepublicCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/roman-republic",
             "subType": "military",
             "title": "Annexation",
             "subTitle": "Rome",
@@ -120,6 +128,7 @@ function romanRepublicCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/roman-republic",
             "subType": "military",
             "title": "Centurian",
             "subTitle": "Rome",
@@ -136,6 +145,7 @@ function romanRepublicCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/roman-republic",
             "subType": "civic",
             "title": "Army Labor",
             "subTitle": "Rome - Starting Civic",
@@ -147,6 +157,7 @@ function romanRepublicCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/roman-republic",
             "subType": "civic",
             "title": "Blockade",
             "subTitle": "Rome",
@@ -163,6 +174,7 @@ function romanRepublicCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/roman-republic",
             "subType": "civic",
             "title": "Roads of Rome",
             "subTitle": "Rome",
@@ -179,6 +191,7 @@ function romanRepublicCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/roman-republic",
             "subType": "civic",
             "title": "Paving",
             "subTitle": "Rome",
@@ -195,6 +208,7 @@ function romanRepublicCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/roman-republic",
             "subType": "commerce",
             "title": "Toll roads",
             "subTitle": "Rome - Starting Commerce",
@@ -206,6 +220,7 @@ function romanRepublicCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/roman-republic",
             "subType": "commerce",
             "title": "Trading Vessels",
             "subTitle": "Rome",
@@ -222,6 +237,7 @@ function romanRepublicCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/roman-republic",
             "subType": "commerce",
             "title": "Wealth of Aristocrats",
             "subTitle": "Rome",
@@ -238,6 +254,7 @@ function romanRepublicCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/roman-republic",
             "subType": "commerce",
             "title": "Taxation",
             "subTitle": "Rome",
@@ -254,6 +271,7 @@ function romanRepublicCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/roman-republic",
             "subType": "science",
             "title": "Codex",
             "subTitle": "Rome - Starting Science",
@@ -265,6 +283,7 @@ function romanRepublicCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/roman-republic",
             "subType": "science",
             "title": "Legions",
             "subTitle": "Rome",
@@ -281,6 +300,7 @@ function romanRepublicCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/roman-republic",
             "subType": "science",
             "title": "Neoplatonism",
             "subTitle": "Rome",
@@ -297,6 +317,7 @@ function romanRepublicCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/roman-republic",
             "subType": "science",
             "title": "Concrete",
             "subTitle": "Rome",

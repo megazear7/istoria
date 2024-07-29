@@ -2,6 +2,7 @@ function carthaginianCards() {
     return flatten([
         {
             "cardType": "city",
+            "folder": "nations/carthage",
             "title": "TODO",
             "subTitle": "Carthage - Starting City",
             "placement": "city_placement",
@@ -16,6 +17,7 @@ function carthaginianCards() {
             "desc": "TODO"
         }, {
             "cardType": "fortification",
+            "folder": "nations/carthage",
             "title": "TODO",
             "subTitle": "Carthage - Starting Fort",
             "placement": "building_placement",
@@ -30,6 +32,7 @@ function carthaginianCards() {
             "mod": [ "attrition" ]
         }, {
             "cardType": "city",
+            "folder": "nations/carthage",
             "title": "TODO",
             "subTitle": "Carthage - City 2",
             "placement": "city_placement",
@@ -47,6 +50,7 @@ function carthaginianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "city",
+            "folder": "nations/carthage",
             "title": "TODO",
             "subTitle": "Carthage - City 3",
             "placement": "city_placement",
@@ -64,6 +68,7 @@ function carthaginianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "city",
+            "folder": "nations/carthage",
             "title": "TODO",
             "subTitle": "Carthage - City 4",
             "placement": "city_placement",
@@ -81,6 +86,7 @@ function carthaginianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/carthage",
             "subType": "military",
             "title": "TODO",
             "subTitle": "Carthage - Starting Military",
@@ -92,6 +98,7 @@ function carthaginianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/carthage",
             "subType": "military",
             "title": "TODO",
             "subTitle": "Carthage",
@@ -108,6 +115,7 @@ function carthaginianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/carthage",
             "subType": "military",
             "title": "TODO",
             "subTitle": "Carthage",
@@ -124,6 +132,7 @@ function carthaginianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/carthage",
             "subType": "military",
             "title": "TODO",
             "subTitle": "Carthage",
@@ -140,6 +149,7 @@ function carthaginianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/carthage",
             "subType": "civic",
             "title": "TODO",
             "subTitle": "Carthage - Starting Civic",
@@ -151,6 +161,7 @@ function carthaginianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/carthage",
             "subType": "civic",
             "title": "TODO",
             "subTitle": "Carthage",
@@ -167,6 +178,7 @@ function carthaginianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/carthage",
             "subType": "civic",
             "title": "TODO",
             "subTitle": "Carthage",
@@ -183,6 +195,7 @@ function carthaginianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/carthage",
             "subType": "civic",
             "title": "TODO",
             "subTitle": "Carthage",
@@ -199,6 +212,7 @@ function carthaginianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/carthage",
             "subType": "commerce",
             "title": "TODO",
             "subTitle": "Carthage - Starting Commerce",
@@ -210,6 +224,7 @@ function carthaginianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/carthage",
             "subType": "commerce",
             "title": "TODO",
             "subTitle": "Carthage",
@@ -226,6 +241,7 @@ function carthaginianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/carthage",
             "subType": "commerce",
             "title": "TODO",
             "subTitle": "Carthage",
@@ -242,6 +258,7 @@ function carthaginianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/carthage",
             "subType": "commerce",
             "title": "TODO",
             "subTitle": "Carthage",
@@ -258,6 +275,7 @@ function carthaginianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/carthage",
             "subType": "science",
             "title": "TODO",
             "subTitle": "Carthage - Starting Science",
@@ -269,6 +287,7 @@ function carthaginianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/carthage",
             "subType": "science",
             "title": "TODO",
             "subTitle": "Carthage",
@@ -285,6 +304,7 @@ function carthaginianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/carthage",
             "subType": "science",
             "title": "TODO",
             "subTitle": "Carthage",
@@ -301,6 +321,7 @@ function carthaginianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/carthage",
             "subType": "science",
             "title": "TODO",
             "subTitle": "Carthage",

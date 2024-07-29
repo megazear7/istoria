@@ -55,8 +55,10 @@ function photofoundry(items, config) {
                 cardPaths = [];
             }
 
+            var folder = config.folder || [];
+            folder = folder.concat(item.folder || []);
             prep(item, config);
-            cardPaths = make(cardPathIndex, cardPaths, config.folder);
+            cardPaths = make(cardPathIndex, cardPaths, folder);
             cardPathIndex = cardPathIndex + 1;
         }
     }
@@ -166,7 +168,8 @@ function make(index, cardPaths, folder) {
     var fileName = "item-" + index;
 
     cardPaths[index-1] = mainDocument.path.fullName + "/" + (folder ? folder + "/" : "") + fileName + ".jpg";
-    var fileRef = new File(cardPaths[index-1]);
+    var filePath = cardPaths[index-1];
+    var fileRef = new File(filePath);
     var jpegOptions = new JPEGSaveOptions();
     jpegOptions.quality = 12;
     mainDocument.saveAs(fileRef, jpegOptions, true);

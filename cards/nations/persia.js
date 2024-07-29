@@ -2,6 +2,7 @@ function persianCards() {
     return flatten([
         {
             "cardType": "city",
+            "folder": "nations/persia",
             "title": "TODO",
             "subTitle": "Persia - Starting City",
             "placement": "city_placement",
@@ -16,6 +17,7 @@ function persianCards() {
             "desc": "TODO"
         }, {
             "cardType": "fortification",
+            "folder": "nations/persia",
             "title": "TODO",
             "subTitle": "Persia - Starting Fort",
             "placement": "building_placement",
@@ -30,6 +32,7 @@ function persianCards() {
             "mod": [ "attrition" ]
         }, {
             "cardType": "city",
+            "folder": "nations/persia",
             "title": "TODO",
             "subTitle": "Persia - City 2",
             "placement": "city_placement",
@@ -47,6 +50,7 @@ function persianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "city",
+            "folder": "nations/persia",
             "title": "TODO",
             "subTitle": "Persia - City 3",
             "placement": "city_placement",
@@ -64,6 +68,7 @@ function persianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "city",
+            "folder": "nations/persia",
             "title": "TODO",
             "subTitle": "Persia - City 4",
             "placement": "city_placement",
@@ -81,6 +86,7 @@ function persianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/persia",
             "subType": "military",
             "title": "TODO",
             "subTitle": "Persia - Starting Military",
@@ -92,6 +98,7 @@ function persianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/persia",
             "subType": "military",
             "title": "TODO",
             "subTitle": "Persia",
@@ -108,6 +115,7 @@ function persianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/persia",
             "subType": "military",
             "title": "TODO",
             "subTitle": "Persia",
@@ -124,6 +132,7 @@ function persianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/persia",
             "subType": "military",
             "title": "TODO",
             "subTitle": "Persia",
@@ -140,6 +149,7 @@ function persianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/persia",
             "subType": "civic",
             "title": "TODO",
             "subTitle": "Persia - Starting Civic",
@@ -151,6 +161,7 @@ function persianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/persia",
             "subType": "civic",
             "title": "TODO",
             "subTitle": "Persia",
@@ -167,6 +178,7 @@ function persianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/persia",
             "subType": "civic",
             "title": "TODO",
             "subTitle": "Persia",
@@ -183,6 +195,7 @@ function persianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/persia",
             "subType": "civic",
             "title": "TODO",
             "subTitle": "Persia",
@@ -199,6 +212,7 @@ function persianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/persia",
             "subType": "commerce",
             "title": "TODO",
             "subTitle": "Persia - Starting Commerce",
@@ -210,6 +224,7 @@ function persianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/persia",
             "subType": "commerce",
             "title": "TODO",
             "subTitle": "Persia",
@@ -226,6 +241,7 @@ function persianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/persia",
             "subType": "commerce",
             "title": "TODO",
             "subTitle": "Persia",
@@ -242,6 +258,7 @@ function persianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/persia",
             "subType": "commerce",
             "title": "TODO",
             "subTitle": "Persia",
@@ -258,6 +275,7 @@ function persianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/persia",
             "subType": "science",
             "title": "TODO",
             "subTitle": "Persia - Starting Science",
@@ -269,6 +287,7 @@ function persianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/persia",
             "subType": "science",
             "title": "TODO",
             "subTitle": "Persia",
@@ -285,6 +304,7 @@ function persianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/persia",
             "subType": "science",
             "title": "TODO",
             "subTitle": "Persia",
@@ -301,6 +321,7 @@ function persianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/persia",
             "subType": "science",
             "title": "TODO",
             "subTitle": "Persia",

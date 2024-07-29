@@ -2,6 +2,7 @@ function civicBuildings() {
     return flatten([
         times(5, {
             "cardType": "civic_building",
+            "folder": "buildings/civic",
             "subType": "farm",
             "title": "Farm",
             "placement": "building_placement",
@@ -14,6 +15,7 @@ function civicBuildings() {
         }),
         times(5, {
             "cardType": "civic_building",
+            "folder": "buildings/civic",
             "subType": "farm",
             "title": "Large Farm",
             "placement": "building_placement",
@@ -26,6 +28,7 @@ function civicBuildings() {
         }),
         times(5, {
             "cardType": "civic_building",
+            "folder": "buildings/civic",
             "subType": "lumber_mill",
             "title": "Lumber Mill",
             "placement": "building_placement",
@@ -38,6 +41,7 @@ function civicBuildings() {
         }),
         times(4, {
             "cardType": "civic_building",
+            "folder": "buildings/civic",
             "subType": "lumber_mill",
             "title": "Large Lumber Mill",
             "placement": "building_placement",
@@ -50,6 +54,7 @@ function civicBuildings() {
         }),
         times(4, {
             "cardType": "civic_building",
+            "folder": "buildings/civic",
             "subType": "mine",
             "title": "Mine",
             "placement": "building_placement",
@@ -63,6 +68,7 @@ function civicBuildings() {
         }),
         times(4, {
             "cardType": "civic_building",
+            "folder": "buildings/civic",
             "subType": "mine",
             "title": "Large Mine",
             "placement": "building_placement",
@@ -76,6 +82,7 @@ function civicBuildings() {
         }),
         times(1, {
             "cardType": "civic_building",
+            "folder": "buildings/civic",
             "title": "Market",
             "placement": "building_placement",
             "image": "default",
@@ -89,6 +96,7 @@ function civicBuildings() {
         }),
         times(1, {
             "cardType": "civic_building",
+            "folder": "buildings/civic",
             "title": "Market",
             "placement": "building_placement",
             "image": "default",
@@ -102,6 +110,7 @@ function civicBuildings() {
         }),
         times(1, {
             "cardType": "civic_building",
+            "folder": "buildings/civic",
             "title": "Market",
             "placement": "building_placement",
             "image": "default",
@@ -113,6 +122,7 @@ function civicBuildings() {
         }),
         times(1, {
             "cardType": "civic_building",
+            "folder": "buildings/civic",
             "title": "Market",
             "placement": "building_placement",
             "image": "default",
@@ -124,6 +134,7 @@ function civicBuildings() {
         }),
         times(1, {
             "cardType": "civic_building",
+            "folder": "buildings/civic",
             "title": "Market",
             "placement": "building_placement",
             "image": "default",
@@ -135,6 +146,7 @@ function civicBuildings() {
         }),
         times(1, {
             "cardType": "civic_building",
+            "folder": "buildings/civic",
             "title": "Market",
             "placement": "building_placement",
             "image": "default",
@@ -146,6 +158,7 @@ function civicBuildings() {
         }),
         times(1, {
             "cardType": "civic_building",
+            "folder": "buildings/civic",
             "title": "Market",
             "placement": "building_placement",
             "image": "default",
@@ -157,6 +170,7 @@ function civicBuildings() {
         }),
         times(1, {
             "cardType": "civic_building",
+            "folder": "buildings/civic",
             "title": "Market",
             "placement": "building_placement",
             "image": "default",
@@ -168,6 +182,7 @@ function civicBuildings() {
         }),
         times(4, {
             "cardType": "civic_building",
+            "folder": "buildings/civic",
             "title": "Temple",
             "placement": "building_placement",
             "image": "default",
@@ -180,6 +195,7 @@ function civicBuildings() {
         }),
         times(4, {
             "cardType": "civic_building",
+            "folder": "buildings/civic",
             "title": "University",
             "placement": "building_placement",
             "image": "default",
@@ -193,6 +209,7 @@ function civicBuildings() {
         }),
         times(4, {
             "cardType": "civic_building",
+            "folder": "buildings/civic",
             "title": "Palace",
             "placement": "building_placement",
             "image": "default",
@@ -206,6 +223,7 @@ function civicBuildings() {
         }),
         times(4, {
             "cardType": "civic_building",
+            "folder": "buildings/civic",
             "title": "Grainery",
             "placement": "building_placement",
             "image": "default",
@@ -219,6 +237,7 @@ function civicBuildings() {
         }),
         times(4, {
             "cardType": "civic_building",
+            "folder": "buildings/civic",
             "title": "Sawmill",
             "placement": "building_placement",
             "image": "default",
@@ -232,6 +251,7 @@ function civicBuildings() {
         }),
         times(4, {
             "cardType": "civic_building",
+            "folder": "buildings/civic",
             "title": "Refinery",
             "placement": "building_placement",
             "image": "default",
@@ -245,6 +265,7 @@ function civicBuildings() {
         }),
         times(1, {
             "cardType": "civic_building",
+            "folder": "buildings/civic",
             "title": "Banquet Hall",
             "placement": "building_placement",
             "image": "default",
@@ -256,6 +277,7 @@ function civicBuildings() {
         }),
         times(1, {
             "cardType": "civic_building",
+            "folder": "buildings/civic",
             "title": "The Grand Bridge",
             "placement": "building_placement",
             "image": "default",
@@ -267,6 +289,7 @@ function civicBuildings() {
         }),
         times(1, {
             "cardType": "civic_building",
+            "folder": "buildings/civic",
             "title": "Marbled Decorum",
             "placement": "building_placement",
             "image": "default",
@@ -278,6 +301,7 @@ function civicBuildings() {
         }),
         times(1, {
             "cardType": "civic_building",
+            "folder": "buildings/civic",
             "title": "Kings Gifts",
             "placement": "building_placement",
             "image": "default",

@@ -2,6 +2,7 @@ function sumerianCards() {
     return flatten([
         {
             "cardType": "city",
+            "folder": "nations/sumerian",
             "title": "Uruk",
             "subTitle": "Sumeria - Starting City",
             "placement": "city_placement",
@@ -16,6 +17,7 @@ function sumerianCards() {
             "desc": "The first city; the birth of civilization; wrapped in myth, draped in the first glories of man."
         }, {
             "cardType": "fortification",
+            "folder": "nations/sumerian",
             "title": "The First Walls",
             "subTitle": "Sumeria - Starting Fort",
             "placement": "building_placement",
@@ -30,6 +32,7 @@ function sumerianCards() {
             "mod": [ "attrition" ]
         }, {
             "cardType": "city",
+            "folder": "nations/sumerian",
             "title": "Lagash",
             "subTitle": "Sumeria - City 2",
             "placement": "city_placement",
@@ -46,6 +49,7 @@ function sumerianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "city",
+            "folder": "nations/sumerian",
             "title": "Larsa",
             "subTitle": "Sumeria - City 3",
             "placement": "city_placement",
@@ -63,6 +67,7 @@ function sumerianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "city",
+            "folder": "nations/sumerian",
             "title": "Eridu",
             "subTitle": "Sumeria - City 4",
             "placement": "city_placement",
@@ -79,6 +84,7 @@ function sumerianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/sumerian",
             "subType": "military",
             "title": "Warrior King",
             "subTitle": "Sumeria - Starting Military",
@@ -90,6 +96,7 @@ function sumerianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/sumerian",
             "subType": "military",
             "title": "Slave Labor",
             "subTitle": "Sumeria",
@@ -106,6 +113,7 @@ function sumerianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/sumerian",
             "subType": "military",
             "title": "Gutian Slaves",
             "subTitle": "Sumeria",
@@ -122,6 +130,7 @@ function sumerianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/sumerian",
             "subType": "military",
             "title": "Priest Kings",
             "subTitle": "Sumeria",
@@ -138,6 +147,7 @@ function sumerianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/sumerian",
             "subType": "civic",
             "title": "Surrounding Deserts",
             "subTitle": "Sumeria - Starting Civic",
@@ -149,6 +159,7 @@ function sumerianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/sumerian",
             "subType": "civic",
             "title": "Dawn Walls",
             "subTitle": "Sumeria",
@@ -165,6 +176,7 @@ function sumerianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/sumerian",
             "subType": "civic",
             "title": "Advanced Cultivation",
             "subTitle": "Sumeria",
@@ -181,6 +193,7 @@ function sumerianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/sumerian",
             "subType": "civic",
             "title": "Canals",
             "subTitle": "Sumeria",
@@ -197,6 +210,7 @@ function sumerianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/sumerian",
             "subType": "commerce",
             "title": "Toll roads",
             "subTitle": "Sumeria - Starting Commerce",
@@ -208,6 +222,7 @@ function sumerianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/sumerian",
             "subType": "commerce",
             "title": "The Forests of Lebanon",
             "subTitle": "Sumeria",
@@ -224,6 +239,7 @@ function sumerianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/sumerian",
             "subType": "commerce",
             "title": "Trading on the Tigris",
             "subTitle": "Sumeria",
@@ -240,6 +256,7 @@ function sumerianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/sumerian",
             "subType": "commerce",
             "title": "Toll roads",
             "subTitle": "Sumeria",
@@ -256,6 +273,7 @@ function sumerianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/sumerian",
             "subType": "science",
             "title": "Codex",
             "subTitle": "Sumeria - Starting Science",
@@ -267,6 +285,7 @@ function sumerianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/sumerian",
             "subType": "science",
             "title": "Reed Bundles",
             "subTitle": "Sumeria",
@@ -283,6 +302,7 @@ function sumerianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/sumerian",
             "subType": "science",
             "title": "Edubba",
             "subTitle": "Sumeria",
@@ -299,6 +319,7 @@ function sumerianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/sumerian",
             "subType": "science",
             "title": "The Plow",
             "subTitle": "Sumeria",

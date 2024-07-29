@@ -2,6 +2,7 @@ function wonderCards() {
     return flatten([
         {
             "cardType": "wonder",
+            "folder": "buildings/wonders",
             "subType": "start",
             "title": "Colosseum",
             "subTitle": "Wonder",
@@ -16,6 +17,7 @@ function wonderCards() {
             ]
         }, {
             "cardType": "wonder",
+            "folder": "buildings/wonders",
             "title": "Hagia Sophia",
             "subTitle": "Wonder",
             "placement": "building_placement",
@@ -28,6 +30,7 @@ function wonderCards() {
             ]
         }, {
             "cardType": "wonder",
+            "folder": "buildings/wonders",
             "title": "Pyramids of Giza",
             "subTitle": "Wonder",
             "placement": "building_placement",
@@ -41,6 +44,7 @@ function wonderCards() {
             ]
         }, {
             "cardType": "wonder",
+            "folder": "buildings/wonders",
             "title": "Parthenon",
             "subTitle": "Wonder",
             "placement": "building_placement",
@@ -55,6 +59,7 @@ function wonderCards() {
             ]
         }, {
             "cardType": "wonder",
+            "folder": "buildings/wonders",
             "title": "Mosque of Mecca",
             "subTitle": "Wonder",
             "placement": "building_placement",
@@ -67,6 +72,7 @@ function wonderCards() {
             ]
         }, {
             "cardType": "wonder",
+            "folder": "buildings/wonders",
             "title": "Taj Mahal",
             "subTitle": "Wonder",
             "placement": "building_placement",
@@ -80,6 +86,7 @@ function wonderCards() {
             ]
         }, {
             "cardType": "wonder",
+            "folder": "buildings/wonders",
             "title": "Lighthouse of Alexandria",
             "subTitle": "Wonder",
             "placement": "building_placement",
@@ -93,6 +100,7 @@ function wonderCards() {
             ]
         }, {
             "cardType": "wonder",
+            "folder": "buildings/wonders",
             "title": "Tikal",
             "subTitle": "Wonder",
             "placement": "building_placement",

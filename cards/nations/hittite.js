@@ -2,6 +2,7 @@ function hittiteCards() {
     return flatten([
         {
             "cardType": "city",
+            "folder": "nations/hitite",
             "title": "Hattusa",
             "subTitle": "Hittite - Starting City",
             "placement": "city_placement",
@@ -15,6 +16,7 @@ function hittiteCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "fortification",
+            "folder": "nations/hitite",
             "title": "Hill Fort",
             "subTitle": "Hittite - Starting Fort",
             "placement": "building_placement",
@@ -29,6 +31,7 @@ function hittiteCards() {
             "mod": [ "attrition" ]
         }, {
             "cardType": "city",
+            "folder": "nations/hitite",
             "title": "Kussara",
             "subTitle": "Hittite - City 2",
             "placement": "city_placement",
@@ -45,6 +48,7 @@ function hittiteCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "city",
+            "folder": "nations/hitite",
             "title": "Carchemish",
             "subTitle": "Hittite - City 3",
             "placement": "city_placement",
@@ -60,6 +64,7 @@ function hittiteCards() {
             "mod": [ "influence", "influence" ]
         }, {
             "cardType": "city",
+            "folder": "nations/hitite",
             "title": "Ankuwa",
             "subTitle": "Hittite - City 4",
             "placement": "city_placement",
@@ -76,6 +81,7 @@ function hittiteCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/hitite",
             "subType": "military",
             "title": "Mercenaries",
             "subTitle": "Hittite - Starting Military",
@@ -87,6 +93,7 @@ function hittiteCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/hitite",
             "subType": "military",
             "title": "Countryside Recruits",
             "subTitle": "Hittite",
@@ -103,6 +110,7 @@ function hittiteCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/hitite",
             "subType": "military",
             "title": "Paying the Enemy",
             "subTitle": "Hittite",
@@ -119,6 +127,7 @@ function hittiteCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/hitite",
             "subType": "military",
             "title": "Pursuing the King",
             "subTitle": "Hittite",
@@ -135,6 +144,7 @@ function hittiteCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/hitite",
             "subType": "civic",
             "title": "Ruins of the Past",
             "subTitle": "Hittite - Starting Civic",
@@ -146,6 +156,7 @@ function hittiteCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/hitite",
             "subType": "civic",
             "title": "Mountain Expansion",
             "subTitle": "Hittite",
@@ -162,6 +173,7 @@ function hittiteCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/hitite",
             "subType": "civic",
             "title": "Stone Foundations",
             "subTitle": "Hittite",
@@ -178,6 +190,7 @@ function hittiteCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/hitite",
             "subType": "civic",
             "title": "Stone Walls",
             "subTitle": "Hittite",
@@ -194,6 +207,7 @@ function hittiteCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/hitite",
             "subType": "commerce",
             "title": "The Silver Mountains",
             "subTitle": "Hittite - Starting Commerce",
@@ -205,6 +219,7 @@ function hittiteCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/hitite",
             "subType": "commerce",
             "title": "The Silver Mines",
             "subTitle": "Hittite",
@@ -221,6 +236,7 @@ function hittiteCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/hitite",
             "subType": "commerce",
             "title": "Hill Forests",
             "subTitle": "Hittite",
@@ -237,6 +253,7 @@ function hittiteCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/hitite",
             "subType": "commerce",
             "title": "Deadly Expansion",
             "subTitle": "Hittite",
@@ -253,6 +270,7 @@ function hittiteCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/hitite",
             "subType": "science",
             "title": "Carpentry",
             "subTitle": "Hittite - Starting Science",
@@ -264,6 +282,7 @@ function hittiteCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/hitite",
             "subType": "science",
             "title": "Defensive Catapults",
             "subTitle": "Hittite",
@@ -280,6 +299,7 @@ function hittiteCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/hitite",
             "subType": "science",
             "title": "Regional Dominance",
             "subTitle": "Hittite",
@@ -296,6 +316,7 @@ function hittiteCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/hitite",
             "subType": "science",
             "title": "Migration",
             "subTitle": "Hittite",

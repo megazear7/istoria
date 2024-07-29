@@ -2,6 +2,7 @@ function mountedTroops() {
     return flatten([
         times(6, {
             "cardType": "mounted_ranged",
+            "folder": "troops/mounted",
             "title": "Light Horse",
             "placement": "army_placement",
             "image": "horses",
@@ -19,6 +20,7 @@ function mountedTroops() {
         }),
         times(4, {
             "cardType": "mounted_ranged",
+            "folder": "troops/mounted",
             "title": "Ranger",
             "placement": "army_placement",
             "image": "horses",
@@ -36,6 +38,7 @@ function mountedTroops() {
         }),
         times(4, {
             "cardType": "mounted_ranged",
+            "folder": "troops/mounted",
             "title": "Mounted Archers",
             "placement": "army_placement",
             "image": "horses",
@@ -54,6 +57,7 @@ function mountedTroops() {
         }),
         times(4, {
             "cardType": "mounted",
+            "folder": "troops/mounted",
             "title": "Knight",
             "placement": "army_placement",
             "image": "horses",
@@ -71,6 +75,7 @@ function mountedTroops() {
         }),
         times(2, {
             "cardType": "mounted",
+            "folder": "troops/mounted",
             "title": "Advisor",
             "placement": "army_placement",
             "image": "horses",
@@ -88,6 +93,7 @@ function mountedTroops() {
         }),
         times(2, {
             "cardType": "mounted",
+            "folder": "troops/mounted",
             "title": "General",
             "placement": "army_placement",
             "image": "horses",
@@ -108,6 +114,7 @@ function mountedTroops() {
         }),
         times(2, {
             "cardType": "mounted",
+            "folder": "troops/mounted",
             "title": "King",
             "placement": "army_placement",
             "image": "horses",
@@ -130,6 +137,7 @@ function mountedTroops() {
         }),
         times(2, {
             "cardType": "mounted",
+            "folder": "troops/mounted",
             "title": "Emperor",
             "placement": "army_placement",
             "image": "horses",

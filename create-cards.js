@@ -6,7 +6,7 @@ photofoundry(makeCards(), {
     rows: 1,
     clean: makeCards()[0],
     mapping: mapping,
-    folder: "dist",
+    folder: "dist/",
     alert: true
 });
 
@@ -27,7 +27,8 @@ function mapping(item) {
         },
         elements: {
         },
-        print: !! item.print
+        print: !! item.print,
+        folder: item.folder
     };
 
     if (item.ability) {

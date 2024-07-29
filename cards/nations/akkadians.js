@@ -2,6 +2,7 @@ function akkadianCards() {
     return flatten([
         {
             "cardType": "city",
+            "folder": "nations/akkadians",
             "title": "Akkad",
             "subTitle": "Akkadians - Starting City",
             "placement": "city_placement",
@@ -16,6 +17,7 @@ function akkadianCards() {
             "desc": "Sargon: King of Sumer and Akkad"
         }, {
             "cardType": "fortification",
+            "folder": "nations/akkadians",
             "title": "City Walls",
             "subTitle": "Akkadians - Starting Fort",
             "placement": "building_placement",
@@ -30,6 +32,7 @@ function akkadianCards() {
             "mod": [ "attrition" ]
         }, {
             "cardType": "city",
+            "folder": "nations/akkadians",
             "title": "Akshak",
             "subTitle": "Akkadians - City 2",
             "placement": "city_placement",
@@ -47,6 +50,7 @@ function akkadianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "city",
+            "folder": "nations/akkadians",
             "title": "Kish",
             "subTitle": "Akkadians - City 3",
             "placement": "city_placement",
@@ -64,6 +68,7 @@ function akkadianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "city",
+            "folder": "nations/akkadians",
             "title": "Larak",
             "subTitle": "Akkadians - City 4",
             "placement": "city_placement",
@@ -81,6 +86,7 @@ function akkadianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/akkadians",
             "subType": "military",
             "title": "The First Empire",
             "subTitle": "Akkadians - Starting Military",
@@ -92,6 +98,7 @@ function akkadianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/akkadians",
             "subType": "military",
             "title": "King of Sumer and Akkad",
             "subTitle": "Akkadians",
@@ -108,6 +115,7 @@ function akkadianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/akkadians",
             "subType": "military",
             "title": "Raids into Canaan",
             "subTitle": "Akkadians",
@@ -124,6 +132,7 @@ function akkadianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/akkadians",
             "subType": "military",
             "title": "King of Four Quarters",
             "subTitle": "Akkadians",
@@ -140,6 +149,7 @@ function akkadianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/akkadians",
             "subType": "civic",
             "title": "Victory Stele",
             "subTitle": "Akkadians - Starting Civic",
@@ -151,6 +161,7 @@ function akkadianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/akkadians",
             "subType": "civic",
             "title": "Emperial Roads",
             "subTitle": "Akkadians",
@@ -167,6 +178,7 @@ function akkadianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/akkadians",
             "subType": "civic",
             "title": "Lugal Palace",
             "subTitle": "Akkadians",
@@ -183,6 +195,7 @@ function akkadianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/akkadians",
             "subType": "civic",
             "title": "Records of the Ensi",
             "subTitle": "Akkadians",
@@ -199,6 +212,7 @@ function akkadianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/akkadians",
             "subType": "commerce",
             "title": "Tax Collectors",
             "subTitle": "Akkadians - Starting Commerce",
@@ -210,6 +224,7 @@ function akkadianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/akkadians",
             "subType": "commerce",
             "title": "Trade with Meluhha",
             "subTitle": "Akkadians",
@@ -226,6 +241,7 @@ function akkadianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/akkadians",
             "subType": "commerce",
             "title": "Boats of the Upper Sea",
             "subTitle": "Akkadians",
@@ -242,6 +258,7 @@ function akkadianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/akkadians",
             "subType": "commerce",
             "title": "The Silver Mountains",
             "subTitle": "Akkadians",
@@ -258,6 +275,7 @@ function akkadianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/akkadians",
             "subType": "science",
             "title": "Semitic Language",
             "subTitle": "Akkadians - Starting Science",
@@ -269,6 +287,7 @@ function akkadianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/akkadians",
             "subType": "science",
             "title": "Barley and Beer",
             "subTitle": "Akkadians",
@@ -285,6 +304,7 @@ function akkadianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/akkadians",
             "subType": "science",
             "title": "Household Production",
             "subTitle": "Akkadians",
@@ -301,6 +321,7 @@ function akkadianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/akkadians",
             "subType": "science",
             "title": "Mail Carriers",
             "subTitle": "Akkadians",

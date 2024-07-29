@@ -2,6 +2,7 @@ function egyptianCards() {
     return flatten([
         {
             "cardType": "city",
+            "folder": "nations/egypt",
             "title": "Menes",
             "subTitle": "Egypt - Starting City",
             "placement": "city",
@@ -15,6 +16,7 @@ function egyptianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "fortification",
+            "folder": "nations/egypt",
             "title": "Walls of the Ruler",
             "subTitle": "Egypt - Starting Fort",
             "placement": "building",
@@ -29,6 +31,7 @@ function egyptianCards() {
             "mod": [ "attrition" ]
         }, {
             "cardType": "city",
+            "folder": "nations/egypt",
             "title": "Thebes",
             "subTitle": "Egypt - City 2",
             "placement": "city",
@@ -45,6 +48,7 @@ function egyptianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "city",
+            "folder": "nations/egypt",
             "title": "Memphis",
             "subTitle": "Egypt - City 3",
             "placement": "city",
@@ -62,6 +66,7 @@ function egyptianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "city",
+            "folder": "nations/egypt",
             "title": "Abydos",
             "subTitle": "Egypt - City 4",
             "placement": "city",
@@ -78,6 +83,7 @@ function egyptianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research",
+            "folder": "nations/egypt",
             "subType": "military",
             "title": "Pharaoh's Guard",
             "subTitle": "Egypt - Starting Military",
@@ -89,6 +95,7 @@ function egyptianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research",
+            "folder": "nations/egypt",
             "subType": "military",
             "title": "Pharoh's March",
             "subTitle": "Egypt",
@@ -105,6 +112,7 @@ function egyptianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research",
+            "folder": "nations/egypt",
             "subType": "military",
             "title": "War Chariot",
             "subTitle": "Egypt",
@@ -121,6 +129,7 @@ function egyptianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research",
+            "folder": "nations/egypt",
             "subType": "military",
             "title": "Sea Peoples Attack",
             "subTitle": "Egypt",
@@ -137,6 +146,7 @@ function egyptianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research",
+            "folder": "nations/egypt",
             "subType": "civic",
             "title": "Flooding of the Nile",
             "subTitle": "Egypt - Starting Civic",
@@ -148,6 +158,7 @@ function egyptianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research",
+            "folder": "nations/egypt",
             "subType": "civic",
             "title": "Pyarmid Building",
             "subTitle": "Egypt",
@@ -164,6 +175,7 @@ function egyptianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research",
+            "folder": "nations/egypt",
             "subType": "civic",
             "title": "Corvee Labor",
             "subTitle": "Egypt",
@@ -180,6 +192,7 @@ function egyptianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research",
+            "folder": "nations/egypt",
             "subType": "civic",
             "title": "Hieroglyphs",
             "subTitle": "Egypt",
@@ -196,6 +209,7 @@ function egyptianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research",
+            "folder": "nations/egypt",
             "subType": "commerce",
             "title": "Grain Storage",
             "subTitle": "Egypt - Starting Commerce",
@@ -207,6 +221,7 @@ function egyptianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research",
+            "folder": "nations/egypt",
             "subType": "commerce",
             "title": "Minoan Traders",
             "subTitle": "Egypt",
@@ -223,6 +238,7 @@ function egyptianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research",
+            "folder": "nations/egypt",
             "subType": "commerce",
             "title": "Kingly Gifts",
             "subTitle": "Egypt",
@@ -239,6 +255,7 @@ function egyptianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research",
+            "folder": "nations/egypt",
             "subType": "commerce",
             "title": "Coinage",
             "subTitle": "Egypt",
@@ -255,6 +272,7 @@ function egyptianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research",
+            "folder": "nations/egypt",
             "subType": "science",
             "title": "Divine Pharaoh",
             "subTitle": "Egypt - Starting Science",
@@ -266,6 +284,7 @@ function egyptianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research",
+            "folder": "nations/egypt",
             "subType": "science",
             "title": "Khopesh",
             "subTitle": "Egypt",
@@ -282,6 +301,7 @@ function egyptianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research",
+            "folder": "nations/egypt",
             "subType": "science",
             "title": "Egyptian Faience",
             "subTitle": "Egypt",
@@ -298,6 +318,7 @@ function egyptianCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research",
+            "folder": "nations/egypt",
             "subType": "science",
             "title": "Wooden Scaffolding",
             "subTitle": "Egypt",

@@ -2,6 +2,7 @@ function minoanCards() {
     return flatten([
         {
             "cardType": "city",
+            "folder": "nations/minoan",
             "title": "Knossos",
             "subTitle": "Minoan - Starting City",
             "placement": "city_placement",
@@ -15,6 +16,7 @@ function minoanCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "fortification",
+            "folder": "nations/minoan",
             "title": "Minotaur Labyrinth",
             "subTitle": "Minoan - Starting Fort",
             "placement": "building_placement",
@@ -29,6 +31,7 @@ function minoanCards() {
             "mod": [ "attrition" ]
         }, {
             "cardType": "city",
+            "folder": "nations/minoan",
             "title": "Zakros",
             "subTitle": "Minoan - City 2",
             "placement": "city_placement",
@@ -45,6 +48,7 @@ function minoanCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "city",
+            "folder": "nations/minoan",
             "title": "Malia",
             "subTitle": "Minoan - City 3",
             "placement": "city_placement",
@@ -62,6 +66,7 @@ function minoanCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "city",
+            "folder": "nations/minoan",
             "title": "Phaistos",
             "subTitle": "Minoan - City 4",
             "placement": "city_placement",
@@ -78,6 +83,7 @@ function minoanCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/minoan",
             "subType": "military",
             "title": "Raiding",
             "subTitle": "Minoan - Starting Military",
@@ -89,6 +95,7 @@ function minoanCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/minoan",
             "subType": "military",
             "title": "Pillaging",
             "subTitle": "Minoan",
@@ -105,6 +112,7 @@ function minoanCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/minoan",
             "subType": "military",
             "title": "Palace Armies",
             "subTitle": "Minoan",
@@ -121,6 +129,7 @@ function minoanCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/minoan",
             "subType": "military",
             "title": "Raiding by Sea",
             "subTitle": "Minoan",
@@ -137,6 +146,7 @@ function minoanCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/minoan",
             "subType": "civic",
             "title": "Far Off Colonies",
             "subTitle": "Minoan - Starting Civic",
@@ -148,6 +158,7 @@ function minoanCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/minoan",
             "subType": "civic",
             "title": "Over Sea Colonies",
             "subTitle": "Minoan",
@@ -164,6 +175,7 @@ function minoanCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/minoan",
             "subType": "civic",
             "title": "Palaces",
             "subTitle": "Minoan",
@@ -180,6 +192,7 @@ function minoanCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/minoan",
             "subType": "civic",
             "title": "Trading Post",
             "subTitle": "Minoan",
@@ -196,6 +209,7 @@ function minoanCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/minoan",
             "subType": "commerce",
             "title": "Setting Sail",
             "subTitle": "Minoan - Starting Commerce",
@@ -207,6 +221,7 @@ function minoanCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/minoan",
             "subType": "commerce",
             "title": "Mediterranean Trade",
             "subTitle": "Minoan",
@@ -223,6 +238,7 @@ function minoanCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/minoan",
             "subType": "commerce",
             "title": "Returning Wealthy",
             "subTitle": "Minoan",
@@ -239,6 +255,7 @@ function minoanCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/minoan",
             "subType": "commerce",
             "title": "Palaces of Treasure",
             "subTitle": "Minoan",
@@ -254,6 +271,7 @@ function minoanCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/minoan",
             "subType": "science",
             "title": "Mediterranean Sails",
             "subTitle": "Minoan - Starting Science",
@@ -265,6 +283,7 @@ function minoanCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/minoan",
             "subType": "science",
             "title": "Large Hauls",
             "subTitle": "Minoan",
@@ -281,6 +300,7 @@ function minoanCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/minoan",
             "subType": "science",
             "title": "Mercantile Lands",
             "subTitle": "Minoan",
@@ -297,6 +317,7 @@ function minoanCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/minoan",
             "subType": "science",
             "title": "Linear B Script",
             "subTitle": "Minoan",

@@ -2,6 +2,7 @@ function militaryBuildings() {
     return flatten([
         times(4, {
             "cardType": "military_building",
+            "folder": "buildings/military",
             "title": "Barracks",
             "placement": "building_placement",
             "image": "rome-statue",
@@ -14,6 +15,7 @@ function militaryBuildings() {
         }),
         times(6, {
             "cardType": "military_building",
+            "folder": "buildings/military",
             "title": "Barracks",
             "placement": "building_placement",
             "image": "rome-statue",
@@ -26,6 +28,7 @@ function militaryBuildings() {
         }),
         times(3, {
             "cardType": "military_building",
+            "folder": "buildings/military",
             "title": "Stable",
             "placement": "building_placement",
             "image": "horses",
@@ -38,6 +41,7 @@ function militaryBuildings() {
         }),
         times(5, {
             "cardType": "military_building",
+            "folder": "buildings/military",
             "title": "Stable",
             "placement": "building_placement",
             "image": "horses",
@@ -50,6 +54,7 @@ function militaryBuildings() {
         }),
         times(4, {
             "cardType": "military_building",
+            "folder": "buildings/military",
             "title": "Siege  Factory",
             "placement": "building_placement",
             "image": "horses",
@@ -62,6 +67,7 @@ function militaryBuildings() {
         }),
         times(4, {
             "cardType": "military_building",
+            "folder": "buildings/military",
             "title": "Siege Factory",
             "placement": "building_placement",
             "image": "horses",
@@ -74,6 +80,7 @@ function militaryBuildings() {
         }),
         times(4, {
             "cardType": "fortification",
+            "folder": "buildings/military",
             "title": "Tower",
             "placement": "building_placement",
             "image": "default",
@@ -91,6 +98,7 @@ function militaryBuildings() {
         }),
         times(4, {
             "cardType": "fortification",
+            "folder": "buildings/military",
             "title": "Fort",
             "placement": "building_placement",
             "image": "default",
@@ -109,6 +117,7 @@ function militaryBuildings() {
         }),
         times(4, {
             "cardType": "fortification",
+            "folder": "buildings/military",
             "title": "Castle",
             "placement": "building_placement",
             "image": "default",

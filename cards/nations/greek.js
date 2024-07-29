@@ -2,6 +2,7 @@ function greekCards() {
     return flatten([
         {
             "cardType": "city",
+            "folder": "nations/greek",
             "title": "TODO",
             "subTitle": "Greek - Starting City",
             "placement": "city_placement",
@@ -16,6 +17,7 @@ function greekCards() {
             "desc": "TODO"
         }, {
             "cardType": "fortification",
+            "folder": "nations/greek",
             "title": "TODO",
             "subTitle": "Greek - Starting Fort",
             "placement": "building_placement",
@@ -30,6 +32,7 @@ function greekCards() {
             "mod": [ "attrition" ]
         }, {
             "cardType": "city",
+            "folder": "nations/greek",
             "title": "TODO",
             "subTitle": "Greek - City 2",
             "placement": "city_placement",
@@ -47,6 +50,7 @@ function greekCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "city",
+            "folder": "nations/greek",
             "title": "TODO",
             "subTitle": "Greek - City 3",
             "placement": "city_placement",
@@ -64,6 +68,7 @@ function greekCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "city",
+            "folder": "nations/greek",
             "title": "TODO",
             "subTitle": "Greek - City 4",
             "placement": "city_placement",
@@ -81,6 +86,7 @@ function greekCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/greek",
             "subType": "military",
             "title": "TODO",
             "subTitle": "Greek - Starting Military",
@@ -92,6 +98,7 @@ function greekCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/greek",
             "subType": "military",
             "title": "TODO",
             "subTitle": "Greek",
@@ -108,6 +115,7 @@ function greekCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/greek",
             "subType": "military",
             "title": "TODO",
             "subTitle": "Greek",
@@ -124,6 +132,7 @@ function greekCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/greek",
             "subType": "military",
             "title": "TODO",
             "subTitle": "Greek",
@@ -140,6 +149,7 @@ function greekCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/greek",
             "subType": "civic",
             "title": "TODO",
             "subTitle": "Greek - Starting Civic",
@@ -151,6 +161,7 @@ function greekCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/greek",
             "subType": "civic",
             "title": "TODO",
             "subTitle": "Greek",
@@ -167,6 +178,7 @@ function greekCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/greek",
             "subType": "civic",
             "title": "TODO",
             "subTitle": "Greek",
@@ -183,6 +195,7 @@ function greekCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/greek",
             "subType": "civic",
             "title": "TODO",
             "subTitle": "Greek",
@@ -199,6 +212,7 @@ function greekCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/greek",
             "subType": "commerce",
             "title": "TODO",
             "subTitle": "Greek - Starting Commerce",
@@ -210,6 +224,7 @@ function greekCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/greek",
             "subType": "commerce",
             "title": "TODO",
             "subTitle": "Greek",
@@ -226,6 +241,7 @@ function greekCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/greek",
             "subType": "commerce",
             "title": "TODO",
             "subTitle": "Greek",
@@ -242,6 +258,7 @@ function greekCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/greek",
             "subType": "commerce",
             "title": "TODO",
             "subTitle": "Greek",
@@ -258,6 +275,7 @@ function greekCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/greek",
             "subType": "science",
             "title": "TODO",
             "subTitle": "Greek - Starting Science",
@@ -269,6 +287,7 @@ function greekCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/greek",
             "subType": "science",
             "title": "TODO",
             "subTitle": "Greek",
@@ -285,6 +304,7 @@ function greekCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/greek",
             "subType": "science",
             "title": "TODO",
             "subTitle": "Greek",
@@ -301,6 +321,7 @@ function greekCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "research_type",
+            "folder": "nations/greek",
             "subType": "science",
             "title": "TODO",
             "subTitle": "Greek",

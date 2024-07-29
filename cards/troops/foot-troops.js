@@ -2,6 +2,7 @@ function footTroops() {
     return flatten([
         times(8, {
             "cardType": "foot",
+            "folder": "troops/foot",
             "title": "Spearmen",
             "placement": "army_placement",
             "image": "default",
@@ -18,6 +19,7 @@ function footTroops() {
         }),
         times(4, {
             "cardType": "foot",
+            "folder": "troops/foot",
             "title": "Scout",
             "placement": "army_placement",
             "image": "default",
@@ -35,6 +37,7 @@ function footTroops() {
         }),
         times(4, {
             "cardType": "foot",
+            "folder": "troops/foot",
             "title": "Warband",
             "placement": "army_placement",
             "image": "default",
@@ -53,6 +56,7 @@ function footTroops() {
         }),
         times(4, {
             "cardType": "foot",
+            "folder": "troops/foot",
             "title": "Raiders",
             "placement": "army_placement",
             "image": "default",
@@ -71,6 +75,7 @@ function footTroops() {
         }),
         times(4, {
             "cardType": "foot",
+            "folder": "troops/foot",
             "title": "Warriors",
             "placement": "army_placement",
             "image": "default",
@@ -90,6 +95,7 @@ function footTroops() {
         }),
         times(2, {
             "cardType": "foot",
+            "folder": "troops/foot",
             "title": "Aristocrat",
             "placement": "army_placement",
             "image": "default",
@@ -111,6 +117,7 @@ function footTroops() {
         }),
         times(4, {
             "cardType": "foot",
+            "folder": "troops/foot",
             "title": "Captain",
             "placement": "army_placement",
             "image": "default",
@@ -129,6 +136,7 @@ function footTroops() {
         }),
         times(8, {
             "cardType": "foot_ranged",
+            "folder": "troops/foot",
             "title": "Bowmen",
             "placement": "army_placement",
             "image": "default",
@@ -145,6 +153,7 @@ function footTroops() {
         }),
         times(8, {
             "cardType": "foot_ranged",
+            "folder": "troops/foot",
             "title": "Archer",
             "placement": "army_placement",
             "image": "default",

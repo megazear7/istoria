@@ -2,6 +2,7 @@ function objectiveCards() {
     return flatten([
         {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "Balanced Economy",
             "subTitle": "Objective",
@@ -11,6 +12,7 @@ function objectiveCards() {
             "abilitySymbol": "victory_point"
         }, {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "Horded Goods",
             "subTitle": "Objective",
@@ -20,6 +22,7 @@ function objectiveCards() {
             "abilitySymbol": "victory_point"
         }, {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "Advanced Economy",
             "subTitle": "Objective",
@@ -29,6 +32,7 @@ function objectiveCards() {
             "abilitySymbol": "victory_point"
         }, {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "Great Knowledge",
             "subTitle": "Objective",
@@ -38,6 +42,7 @@ function objectiveCards() {
             "abilitySymbol": "victory_point"
         }, {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "Wonderous Empire",
             "subTitle": "Objective",
@@ -47,6 +52,7 @@ function objectiveCards() {
             "abilitySymbol": "victory_point"
         }, {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "Thieves of Ambition",
             "subTitle": "Objective",
@@ -56,6 +62,7 @@ function objectiveCards() {
             "abilitySymbol": "victory_point"
         }, {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "Balanced Army",
             "subTitle": "Objective",
@@ -65,6 +72,7 @@ function objectiveCards() {
             "abilitySymbol": "victory_point"
         }, {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "Overwhelming Training",
             "subTitle": "Objective",
@@ -74,6 +82,7 @@ function objectiveCards() {
             "abilitySymbol": "victory_point"
         }, {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "Support of the Land",
             "subTitle": "Objective",
@@ -83,6 +92,7 @@ function objectiveCards() {
             "abilitySymbol": "victory_point"
         }, {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "Great Power",
             "subTitle": "Objective",
@@ -92,6 +102,7 @@ function objectiveCards() {
             "abilitySymbol": "victory_point"
         }, {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "Abundant Faith",
             "subTitle": "Objective",
@@ -101,6 +112,7 @@ function objectiveCards() {
             "abilitySymbol": "victory_point"
         }, {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "Abundant Knowledge",
             "subTitle": "Objective",
@@ -110,6 +122,7 @@ function objectiveCards() {
             "abilitySymbol": "victory_point"
         }, {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "Great Defenses",
             "subTitle": "Objective",
@@ -119,6 +132,7 @@ function objectiveCards() {
             "abilitySymbol": "victory_point"
         }, {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "Grand Army",
             "subTitle": "Objective",
@@ -128,6 +142,7 @@ function objectiveCards() {
             "abilitySymbol": "victory_point"
         }, {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "Greatest Production",
             "subTitle": "Objective",
@@ -137,6 +152,7 @@ function objectiveCards() {
             "abilitySymbol": "victory_point"
         }, {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "Grand Strategy",
             "subTitle": "Objective",
@@ -146,6 +162,7 @@ function objectiveCards() {
             "abilitySymbol": "victory_point"
         }, {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "Great Leadership",
             "subTitle": "Objective",
@@ -155,6 +172,7 @@ function objectiveCards() {
             "abilitySymbol": "victory_point"
         }, {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "Sea Lords",
             "subTitle": "Objective",
@@ -164,6 +182,7 @@ function objectiveCards() {
             "abilitySymbol": "victory_point"
         }, {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "Rulers of the Steppe",
             "subTitle": "Objective",
@@ -173,6 +192,7 @@ function objectiveCards() {
             "abilitySymbol": "victory_point"
         }, {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "Rulers of the Field",
             "subTitle": "Objective",
@@ -182,6 +202,7 @@ function objectiveCards() {
             "abilitySymbol": "victory_point"
         }, {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "Rulers of the Forest",
             "subTitle": "Objective",
@@ -191,6 +212,7 @@ function objectiveCards() {
             "abilitySymbol": "victory_point"
         }, {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "Rulers of the Mountains",
             "subTitle": "Objective",
@@ -200,6 +222,7 @@ function objectiveCards() {
             "abilitySymbol": "victory_point"
         }, {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "Grand Nation",
             "subTitle": "Objective",
@@ -209,6 +232,7 @@ function objectiveCards() {
             "abilitySymbol": "victory_point"
         }, {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "First Wonder",
             "subTitle": "Objective",
@@ -218,6 +242,7 @@ function objectiveCards() {
             "abilitySymbol": "victory_point"
         }, {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "First Wonder",
             "subTitle": "Objective",
@@ -227,6 +252,7 @@ function objectiveCards() {
             "abilitySymbol": "victory_point"
         }, {
             "cardType": "white_victory_point",
+            "folder": "objectives",
             "placement": "white_victory_point",
             "title": "First Wonder",
             "subTitle": "Objective",
