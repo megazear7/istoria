@@ -5,9 +5,9 @@ function greekCards() {
             "folder": "nations/greek",
             "title": "TODO",
             "subTitle": "Greek - Starting City",
-            "placement": "city_placement",
+            "placement": "building",
             "image": "mystic",
-            "print": false,
+            "print": true,
             "combat": {
                 "defense": 14
             },
@@ -20,9 +20,9 @@ function greekCards() {
             "folder": "nations/greek",
             "title": "TODO",
             "subTitle": "Greek - Starting Fort",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "mystic",
-            "print": false,
+            "print": true,
             "bottomCombat": {
                 "init": 6,
                 "attack": 1,
@@ -35,9 +35,9 @@ function greekCards() {
             "folder": "nations/greek",
             "title": "TODO",
             "subTitle": "Greek - City 2",
-            "placement": "city_placement",
+            "placement": "building",
             "image": "mystic",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "food", "costVal": 2 }
             ],
@@ -53,9 +53,9 @@ function greekCards() {
             "folder": "nations/greek",
             "title": "TODO",
             "subTitle": "Greek - City 3",
-            "placement": "city_placement",
+            "placement": "building",
             "image": "mystic",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "food", "costVal": 4 }
             ],
@@ -71,9 +71,9 @@ function greekCards() {
             "folder": "nations/greek",
             "title": "TODO",
             "subTitle": "Greek - City 4",
-            "placement": "city_placement",
+            "placement": "building",
             "image": "mystic",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "food", "costVal": 6 }
             ],
@@ -85,89 +85,89 @@ function greekCards() {
             "ability": "TODO",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/greek",
             "subType": "military",
             "title": "TODO",
             "subTitle": "Greek - Starting Military",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "rome-statue",
-            "print": false,
-            "mod": [ "increase_max_army_size", "increase_max_army_size", "increase_max_army_size", "increase_max_army_size", "army_placement" ],
+            "print": true,
+            "mod": [ "increase_max_army_size", "increase_max_army_size", "increase_max_army_size", "increase_max_army_size", "army" ],
             "ability": "TODO",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/greek",
             "subType": "military",
             "title": "TODO",
             "subTitle": "Greek",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "rome-statue",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 2 },
                 { "costType": "stone", "costVal": 2 }
             ],
-            "mod": [ "increase_max_army_size", "increase_max_army_size", "army_placement" ],
+            "mod": [ "increase_max_army_size", "increase_max_army_size", "army" ],
             "ability": "TODO",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/greek",
             "subType": "military",
             "title": "TODO",
             "subTitle": "Greek",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "rome-statue",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 2 },
                 { "costType": "stone", "costVal": 2 }
             ],
-            "mod": [ "increase_max_army_size", "increase_max_army_size", "army_placement" ],
+            "mod": [ "increase_max_army_size", "increase_max_army_size", "army" ],
             "ability": "TODO",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/greek",
             "subType": "military",
             "title": "TODO",
             "subTitle": "Greek",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "rome-statue",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 2 },
                 { "costType": "stone", "costVal": 2 }
             ],
-            "mod": [ "increase_max_army_size", "increase_max_army_size", "army_placement" ],
+            "mod": [ "increase_max_army_size", "increase_max_army_size", "army" ],
             "ability": "TODO",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/greek",
             "subType": "civic",
             "title": "TODO",
             "subTitle": "Greek - Starting Civic",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "carved-entry",
-            "print": false,
+            "print": true,
             "mod": [ "increase_city_limit" ],
             "ability": "TODO",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/greek",
             "subType": "civic",
             "title": "TODO",
             "subTitle": "Greek",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "carved-entry",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wood", "costVal": 2 },
@@ -177,14 +177,14 @@ function greekCards() {
             "ability": "TODO",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/greek",
             "subType": "civic",
             "title": "TODO",
             "subTitle": "Greek",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "carved-entry",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wood", "costVal": 2 },
@@ -194,14 +194,14 @@ function greekCards() {
             "ability": "TODO",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/greek",
             "subType": "civic",
             "title": "TODO",
             "subTitle": "Greek",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "carved-entry",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wood", "costVal": 2 },
@@ -211,26 +211,26 @@ function greekCards() {
             "ability": "TODO",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/greek",
             "subType": "commerce",
             "title": "TODO",
             "subTitle": "Greek - Starting Commerce",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "merchant",
-            "print": false,
+            "print": true,
             "mod": [ "increase_max_income", "increase_max_income", "increase_max_income" ],
             "ability": "TODO",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/greek",
             "subType": "commerce",
             "title": "TODO",
             "subTitle": "Greek",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "merchant",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 1 },
@@ -240,14 +240,14 @@ function greekCards() {
             "ability": "TODO",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/greek",
             "subType": "commerce",
             "title": "TODO",
             "subTitle": "Greek",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "merchant",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 1 },
@@ -257,14 +257,14 @@ function greekCards() {
             "ability": "TODO",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/greek",
             "subType": "commerce",
             "title": "TODO",
             "subTitle": "Greek",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "merchant",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 1 },
@@ -274,26 +274,26 @@ function greekCards() {
             "ability": "TODO",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/greek",
             "subType": "science",
             "title": "TODO",
             "subTitle": "Greek - Starting Science",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "monk",
-            "print": false,
+            "print": true,
             "mod": [ "increase_hand_limit", "increase_hand_limit", "knowledge", "knowledge" ],
             "ability": "TODO",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/greek",
             "subType": "science",
             "title": "TODO",
             "subTitle": "Greek",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "monk",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 1 },
@@ -303,14 +303,14 @@ function greekCards() {
             "ability": "TODO",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/greek",
             "subType": "science",
             "title": "TODO",
             "subTitle": "Greek",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "monk",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 1 },
@@ -320,14 +320,14 @@ function greekCards() {
             "ability": "TODO",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/greek",
             "subType": "science",
             "title": "TODO",
             "subTitle": "Greek",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "monk",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 1 },

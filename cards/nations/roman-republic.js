@@ -5,9 +5,9 @@ function romanRepublicCards() {
             "folder": "nations/roman-republic",
             "title": "Rome",
             "subTitle": "Rome - Starting City",
-            "placement": "city_placement",
+            "placement": "building",
             "image": "rome",
-            "print": false,
+            "print": true,
             "combat": {
                 "defense": 20
             },
@@ -20,9 +20,9 @@ function romanRepublicCards() {
             "folder": "nations/roman-republic",
             "title": "Romn Fort",
             "subTitle": "Rome - Starting Fort",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "rome",
-            "print": false,
+            "print": true,
             "bottomCombat": {
                 "init": 6,
                 "attack": 2,
@@ -35,9 +35,9 @@ function romanRepublicCards() {
             "folder": "nations/roman-republic",
             "title": "Carthage",
             "subTitle": "Rome - City 2",
-            "placement": "city_placement",
+            "placement": "building",
             "image": "rome",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "food", "costVal": 2 }
             ],
@@ -52,9 +52,9 @@ function romanRepublicCards() {
             "folder": "nations/roman-republic",
             "title": "Trier",
             "subTitle": "Rome - City 3",
-            "placement": "city_placement",
+            "placement": "building",
             "image": "rome",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "food", "costVal": 4 }
             ],
@@ -68,9 +68,9 @@ function romanRepublicCards() {
             "folder": "nations/roman-republic",
             "title": "Nimes",
             "subTitle": "Rome - City 4",
-            "placement": "city_placement",
+            "placement": "building",
             "image": "rome",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "food", "costVal": 6 }
             ],
@@ -81,89 +81,89 @@ function romanRepublicCards() {
             "ability": "Gain 1 vp for each army that has 6 or more units",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/roman-republic",
             "subType": "military",
             "title": "Recruitment",
             "subTitle": "Rome - Starting Military",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "rome-statue",
-            "print": false,
-            "mod": [ "increase_max_army_size", "increase_max_army_size", "increase_max_army_size", "increase_max_army_size", "army_placement" ],
+            "print": true,
+            "mod": [ "increase_max_army_size", "increase_max_army_size", "increase_max_army_size", "increase_max_army_size", "army" ],
             "ability": "When recruiting, draw 1 additional foot troop card.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/roman-republic",
             "subType": "military",
             "title": "Forges",
             "subTitle": "Rome",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "rome-statue",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 2 },
                 { "costType": "stone", "costVal": 2 }
             ],
-            "mod": [ "increase_max_army_size", "increase_max_army_size", "army_placement" ],
+            "mod": [ "increase_max_army_size", "increase_max_army_size", "army" ],
             "ability": "When recruiting, pay 1 less stone.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/roman-republic",
             "subType": "military",
             "title": "Annexation",
             "subTitle": "Rome",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "rome-statue",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 2 },
                 { "costType": "stone", "costVal": 2 }
             ],
-            "mod": [ "increase_max_army_size", "increase_max_army_size", "army_placement" ],
+            "mod": [ "increase_max_army_size", "increase_max_army_size", "army" ],
             "ability": "When you conquer a city, do not put a razed token on the city.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/roman-republic",
             "subType": "military",
             "title": "Centurian",
             "subTitle": "Rome",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "rome-statue",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 3 },
                 { "costType": "stone", "costVal": 3 }
             ],
-            "mod": [ "increase_max_army_size", "increase_max_army_size", "army_placement" ],
+            "mod": [ "increase_max_army_size", "increase_max_army_size", "army" ],
             "ability": "Melee foot troops attack at initiative 3",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/roman-republic",
             "subType": "civic",
             "title": "Army Labor",
             "subTitle": "Rome - Starting Civic",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "carved-entry",
-            "print": false,
+            "print": true,
             "mod": [ "increase_city_limit" ],
             "ability": "Discard a unit from an ajacent army to avoid paying upkeep costs in that city.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/roman-republic",
             "subType": "civic",
             "title": "Blockade",
             "subTitle": "Rome",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "carved-entry",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wood", "costVal": 2 },
@@ -173,14 +173,14 @@ function romanRepublicCards() {
             "ability": "Apposing armies cannot cross water spaces that you have an army adjacent to",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/roman-republic",
             "subType": "civic",
             "title": "Roads of Rome",
             "subTitle": "Rome",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "carved-entry",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wood", "costVal": 2 },
@@ -190,14 +190,14 @@ function romanRepublicCards() {
             "ability": "Armies can move an additional space when moving entirely within friendly territoy",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/roman-republic",
             "subType": "civic",
             "title": "Paving",
             "subTitle": "Rome",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "carved-entry",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wood", "costVal": 2 },
@@ -207,26 +207,26 @@ function romanRepublicCards() {
             "ability": "Pay 1 stone to move an army 4 spaces. You may then attack an adjacent army.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/roman-republic",
             "subType": "commerce",
             "title": "Toll roads",
             "subTitle": "Rome - Starting Commerce",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "merchant",
-            "print": false,
+            "print": true,
             "mod": [ "increase_max_income", "increase_max_income", "increase_max_income" ],
             "ability": "In the gather forgo drawing building cards and pay 1 resource to gain 1 wealth",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/roman-republic",
             "subType": "commerce",
             "title": "Trading Vessels",
             "subTitle": "Rome",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "merchant",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 1 },
@@ -236,14 +236,14 @@ function romanRepublicCards() {
             "ability": "Ignore the wealth upkeep in your 'B' city",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/roman-republic",
             "subType": "commerce",
             "title": "Wealth of Aristocrats",
             "subTitle": "Rome",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "merchant",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 1 },
@@ -253,14 +253,14 @@ function romanRepublicCards() {
             "ability": "Gain 1 coin for each city that has a farm, lumber mill, and mine",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/roman-republic",
             "subType": "commerce",
             "title": "Taxation",
             "subTitle": "Rome",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "merchant",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 1 },
@@ -270,26 +270,26 @@ function romanRepublicCards() {
             "ability": "At the end of the gather phase exchange any 2 resources for 1 wealth. This can be done once per city.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/roman-republic",
             "subType": "science",
             "title": "Codex",
             "subTitle": "Rome - Starting Science",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "monk",
-            "print": false,
+            "print": true,
             "mod": [ "increase_hand_limit", "increase_hand_limit", "knowledge" ],
             "ability": "At the end of the gather phase, you may discard some or all of your research cards and draw new research cards in replacement.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/roman-republic",
             "subType": "science",
             "title": "Legions",
             "subTitle": "Rome",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "monk",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 1 },
@@ -299,14 +299,14 @@ function romanRepublicCards() {
             "ability": "In the gather phase, if 2 armies are adjacent, exchange any number of cards between them.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/roman-republic",
             "subType": "science",
             "title": "Neoplatonism",
             "subTitle": "Rome",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "monk",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 2 },
@@ -316,14 +316,14 @@ function romanRepublicCards() {
             "ability": "Increase influence by 1.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/roman-republic",
             "subType": "science",
             "title": "Concrete",
             "subTitle": "Rome",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "monk",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 2 },

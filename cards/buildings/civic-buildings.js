@@ -5,9 +5,9 @@ function civicBuildings() {
             "folder": "buildings/civic",
             "subType": "farm",
             "title": "Farm",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "green",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "wood", "costVal": 1 }
             ],
@@ -18,9 +18,9 @@ function civicBuildings() {
             "folder": "buildings/civic",
             "subType": "farm",
             "title": "Large Farm",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "green",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "wood", "costVal": 3 }
             ],
@@ -31,9 +31,9 @@ function civicBuildings() {
             "folder": "buildings/civic",
             "subType": "lumber_mill",
             "title": "Lumber Mill",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "tree-road",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "food", "costVal": 1 }
             ],
@@ -44,9 +44,9 @@ function civicBuildings() {
             "folder": "buildings/civic",
             "subType": "lumber_mill",
             "title": "Large Lumber Mill",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "tree-road",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "food", "costVal": 3 }
             ],
@@ -57,9 +57,9 @@ function civicBuildings() {
             "folder": "buildings/civic",
             "subType": "mine",
             "title": "Mine",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "mountain-lake",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "food", "costVal": 1 },
                 { "costType": "wood", "costVal": 1 }
@@ -71,9 +71,9 @@ function civicBuildings() {
             "folder": "buildings/civic",
             "subType": "mine",
             "title": "Large Mine",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "mountain-lake",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "food", "costVal": 2 },
                 { "costType": "wood", "costVal": 2 }
@@ -84,9 +84,9 @@ function civicBuildings() {
             "cardType": "civic_building",
             "folder": "buildings/civic",
             "title": "Market",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "default",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "food", "costVal": 1 },
                 { "costType": "wood", "costVal": 1 },
@@ -98,9 +98,9 @@ function civicBuildings() {
             "cardType": "civic_building",
             "folder": "buildings/civic",
             "title": "Market",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "default",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "food", "costVal": 2 },
                 { "costType": "wood", "costVal": 2 },
@@ -112,9 +112,9 @@ function civicBuildings() {
             "cardType": "civic_building",
             "folder": "buildings/civic",
             "title": "Market",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "default",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "food", "costVal": 3 }
             ],
@@ -124,9 +124,9 @@ function civicBuildings() {
             "cardType": "civic_building",
             "folder": "buildings/civic",
             "title": "Market",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "default",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "wood", "costVal": 3 }
             ],
@@ -136,9 +136,9 @@ function civicBuildings() {
             "cardType": "civic_building",
             "folder": "buildings/civic",
             "title": "Market",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "default",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "stone", "costVal": 2 }
             ],
@@ -148,9 +148,9 @@ function civicBuildings() {
             "cardType": "civic_building",
             "folder": "buildings/civic",
             "title": "Market",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "default",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "food", "costVal": 5 }
             ],
@@ -160,9 +160,9 @@ function civicBuildings() {
             "cardType": "civic_building",
             "folder": "buildings/civic",
             "title": "Market",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "default",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "wood", "costVal": 4 }
             ],
@@ -172,9 +172,9 @@ function civicBuildings() {
             "cardType": "civic_building",
             "folder": "buildings/civic",
             "title": "Market",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "default",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "stone", "costVal": 3 }
             ],
@@ -184,9 +184,9 @@ function civicBuildings() {
             "cardType": "civic_building",
             "folder": "buildings/civic",
             "title": "Temple",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "default",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "food", "costVal": 1 },
                 { "costType": "wood", "costVal": 1 }
@@ -197,9 +197,9 @@ function civicBuildings() {
             "cardType": "civic_building",
             "folder": "buildings/civic",
             "title": "University",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "default",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "wood", "costVal": 1 },
                 { "costType": "stone", "costVal": 1 }
@@ -211,9 +211,9 @@ function civicBuildings() {
             "cardType": "civic_building",
             "folder": "buildings/civic",
             "title": "Palace",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "default",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "wood", "costVal": 1 },
                 { "costType": "stone", "costVal": 1 }
@@ -225,9 +225,9 @@ function civicBuildings() {
             "cardType": "civic_building",
             "folder": "buildings/civic",
             "title": "Grainery",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "default",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "wood", "costVal": 1 },
                 { "costType": "stone", "costVal": 1 }
@@ -239,9 +239,9 @@ function civicBuildings() {
             "cardType": "civic_building",
             "folder": "buildings/civic",
             "title": "Sawmill",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "default",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "wood", "costVal": 1 },
                 { "costType": "stone", "costVal": 1 }
@@ -253,9 +253,9 @@ function civicBuildings() {
             "cardType": "civic_building",
             "folder": "buildings/civic",
             "title": "Refinery",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "default",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "wood", "costVal": 1 },
                 { "costType": "stone", "costVal": 1 }
@@ -267,9 +267,9 @@ function civicBuildings() {
             "cardType": "civic_building",
             "folder": "buildings/civic",
             "title": "Banquet Hall",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "default",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "food", "costVal": 5 }
             ],
@@ -279,9 +279,9 @@ function civicBuildings() {
             "cardType": "civic_building",
             "folder": "buildings/civic",
             "title": "The Grand Bridge",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "default",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "wood", "costVal": 5 }
             ],
@@ -291,9 +291,9 @@ function civicBuildings() {
             "cardType": "civic_building",
             "folder": "buildings/civic",
             "title": "Marbled Decorum",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "default",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "stone", "costVal": 5 }
             ],
@@ -303,9 +303,9 @@ function civicBuildings() {
             "cardType": "civic_building",
             "folder": "buildings/civic",
             "title": "Kings Gifts",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "default",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "wealth", "costVal": 3 }
             ],

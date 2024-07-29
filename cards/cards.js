@@ -52,6 +52,9 @@ function makeCards() {
 
     cards = cards.concat(objectiveCards());
 
+    // Override the card list here;
+    cards = footTroops();
+
     var finalCards = [];
     for (var i = 0; i < cards.length; i++) {
         var card = cards[i];

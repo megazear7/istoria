@@ -4,9 +4,9 @@ function militaryBuildings() {
             "cardType": "military_building",
             "folder": "buildings/military",
             "title": "Barracks",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "rome-statue",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "wood", "costVal": 1 },
                 { "costType": "stone", "costVal": 1 }
@@ -17,9 +17,9 @@ function militaryBuildings() {
             "cardType": "military_building",
             "folder": "buildings/military",
             "title": "Barracks",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "rome-statue",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "wood", "costVal": 2 },
                 { "costType": "stone", "costVal": 2 }
@@ -30,9 +30,9 @@ function militaryBuildings() {
             "cardType": "military_building",
             "folder": "buildings/military",
             "title": "Stable",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "horses",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "wood", "costVal": 2 },
                 { "costType": "stone", "costVal": 2 }
@@ -43,9 +43,9 @@ function militaryBuildings() {
             "cardType": "military_building",
             "folder": "buildings/military",
             "title": "Stable",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "horses",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "wood", "costVal": 3 },
                 { "costType": "stone", "costVal": 3 }
@@ -56,9 +56,9 @@ function militaryBuildings() {
             "cardType": "military_building",
             "folder": "buildings/military",
             "title": "Siege  Factory",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "horses",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "wood", "costVal": 3 },
                 { "costType": "stone", "costVal": 3 }
@@ -69,9 +69,9 @@ function militaryBuildings() {
             "cardType": "military_building",
             "folder": "buildings/military",
             "title": "Siege Factory",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "horses",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "wood", "costVal": 4 },
                 { "costType": "stone", "costVal": 4 }
@@ -82,9 +82,9 @@ function militaryBuildings() {
             "cardType": "fortification",
             "folder": "buildings/military",
             "title": "Tower",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "default",
-            "print": false,
+            "print": true,
             "bottomCombat": {
                 "init": 6,
                 "attack": 3,
@@ -100,9 +100,9 @@ function militaryBuildings() {
             "cardType": "fortification",
             "folder": "buildings/military",
             "title": "Fort",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "default",
-            "print": false,
+            "print": true,
             "bottomCombat": {
                 "init": 6,
                 "attack": 3,
@@ -119,9 +119,9 @@ function militaryBuildings() {
             "cardType": "fortification",
             "folder": "buildings/military",
             "title": "Castle",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "default",
-            "print": false,
+            "print": true,
             "bottomCombat": {
                 "init": 6,
                 "attack": 2,

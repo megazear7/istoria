@@ -5,9 +5,9 @@ function minoanCards() {
             "folder": "nations/minoan",
             "title": "Knossos",
             "subTitle": "Minoan - Starting City",
-            "placement": "city_placement",
+            "placement": "building",
             "image": "mystic",
-            "print": false,
+            "print": true,
             "combat": {
                 "defense": 14
             },
@@ -19,9 +19,9 @@ function minoanCards() {
             "folder": "nations/minoan",
             "title": "Minotaur Labyrinth",
             "subTitle": "Minoan - Starting Fort",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "mystic",
-            "print": false,
+            "print": true,
             "bottomCombat": {
                 "init": 4,
                 "attack": 2,
@@ -34,9 +34,9 @@ function minoanCards() {
             "folder": "nations/minoan",
             "title": "Zakros",
             "subTitle": "Minoan - City 2",
-            "placement": "city_placement",
+            "placement": "building",
             "image": "mystic",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "food", "costVal": 2 }
             ],
@@ -51,9 +51,9 @@ function minoanCards() {
             "folder": "nations/minoan",
             "title": "Malia",
             "subTitle": "Minoan - City 3",
-            "placement": "city_placement",
+            "placement": "building",
             "image": "mystic",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "food", "costVal": 4 }
             ],
@@ -69,9 +69,9 @@ function minoanCards() {
             "folder": "nations/minoan",
             "title": "Phaistos",
             "subTitle": "Minoan - City 4",
-            "placement": "city_placement",
+            "placement": "building",
             "image": "mystic",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "food", "costVal": 6 }
             ],
@@ -82,89 +82,89 @@ function minoanCards() {
             "ability": "Deploy phase: Spend 1 wood to move an army 2 spaces.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/minoan",
             "subType": "military",
             "title": "Raiding",
             "subTitle": "Minoan - Starting Military",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "rome-statue",
-            "print": false,
-            "mod": [ "increase_max_army_size", "increase_max_army_size", "increase_max_army_size", "increase_max_army_size", "army_placement" ],
+            "print": true,
+            "mod": [ "increase_max_army_size", "increase_max_army_size", "increase_max_army_size", "increase_max_army_size", "army" ],
             "ability": "Steal 1 food if you have an army adjacent to an enemy city.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/minoan",
             "subType": "military",
             "title": "Pillaging",
             "subTitle": "Minoan",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "rome-statue",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 2 },
                 { "costType": "stone", "costVal": 3 }
             ],
-            "mod": [ "increase_max_army_size", "increase_max_army_size", "army_placement" ],
+            "mod": [ "increase_max_army_size", "increase_max_army_size", "army" ],
             "ability": "Steal 1 food, wood, or stone if you have an army adjacent to an enemy city.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/minoan",
             "subType": "military",
             "title": "Palace Armies",
             "subTitle": "Minoan",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "rome-statue",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 2 },
                 { "costType": "stone", "costVal": 2 }
             ],
-            "mod": [ "increase_max_army_size", "increase_max_army_size", "army_placement" ],
+            "mod": [ "increase_max_army_size", "increase_max_army_size", "army" ],
             "ability": "Recruit phase: If all of your armies are adjacent to the same friendly city, draw 1 card from the military discard pile",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/minoan",
             "subType": "military",
             "title": "Raiding by Sea",
             "subTitle": "Minoan",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "rome-statue",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 2 },
                 { "costType": "stone", "costVal": 2 }
             ],
-            "mod": [ "increase_max_army_size", "increase_max_army_size", "army_placement" ],
+            "mod": [ "increase_max_army_size", "increase_max_army_size", "army" ],
             "ability": "Recruit phase: Spend 3 wood to move your army adjacent to any enemy city",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/minoan",
             "subType": "civic",
             "title": "Far Off Colonies",
             "subTitle": "Minoan - Starting Civic",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "carved-entry",
-            "print": false,
+            "print": true,
             "mod": [ "increase_city_limit" ],
             "ability": "You may build cities up to 3 spaces away from a city you control",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/minoan",
             "subType": "civic",
             "title": "Over Sea Colonies",
             "subTitle": "Minoan",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "carved-entry",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wood", "costVal": 2 },
@@ -174,14 +174,14 @@ function minoanCards() {
             "ability": "Build a city on any space that is adjacent to water or the board edge",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/minoan",
             "subType": "civic",
             "title": "Palaces",
             "subTitle": "Minoan",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "carved-entry",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wood", "costVal": 2 },
@@ -191,14 +191,14 @@ function minoanCards() {
             "ability": "After researching this card, build 1 military building at no cost.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/minoan",
             "subType": "civic",
             "title": "Trading Post",
             "subTitle": "Minoan",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "carved-entry",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wood", "costVal": 2 },
@@ -208,26 +208,26 @@ function minoanCards() {
             "ability": "After researching this card, build one civic building at not cost.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/minoan",
             "subType": "commerce",
             "title": "Setting Sail",
             "subTitle": "Minoan - Starting Commerce",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "merchant",
-            "print": false,
+            "print": true,
             "mod": [ "increase_max_income", "increase_max_income", "increase_max_income" ],
             "ability": "Gather phase: Forgo drawing cards this turn to collect 1 wealth.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/minoan",
             "subType": "commerce",
             "title": "Mediterranean Trade",
             "subTitle": "Minoan",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "merchant",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 1 },
@@ -237,14 +237,14 @@ function minoanCards() {
             "ability": "Place up to 3 resources on this card each turn. These cannot be spent. Skip your gathering phase to convert these resources to wealth.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/minoan",
             "subType": "commerce",
             "title": "Returning Wealthy",
             "subTitle": "Minoan",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "merchant",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 1 },
@@ -254,14 +254,14 @@ function minoanCards() {
             "ability": "Gather phase: Forgo discarding cards this turn to collect 1 wealth.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/minoan",
             "subType": "commerce",
             "title": "Palaces of Treasure",
             "subTitle": "Minoan",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "merchant",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "stone", "costVal": 4 }
@@ -270,26 +270,26 @@ function minoanCards() {
             "ability": "Spend 5 wealth to gain a victory point",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/minoan",
             "subType": "science",
             "title": "Mediterranean Sails",
             "subTitle": "Minoan - Starting Science",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "monk",
-            "print": false,
+            "print": true,
             "mod": [ "increase_hand_limit", "increase_hand_limit", "knowledge", "knowledge" ],
             "ability": "Your armies may move 4 spaces when adjacent to water or the board edge",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/minoan",
             "subType": "science",
             "title": "Large Hauls",
             "subTitle": "Minoan",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "monk",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 2 },
@@ -299,14 +299,14 @@ function minoanCards() {
             "ability": "Each time you gain a commerce research, gain 2 wealth",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/minoan",
             "subType": "science",
             "title": "Mercantile Lands",
             "subTitle": "Minoan",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "monk",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 2 },
@@ -316,14 +316,14 @@ function minoanCards() {
             "ability": "Gather phase: If you have no armies, gain 1 of each resource",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
+            "cardType": "research",
             "folder": "nations/minoan",
             "subType": "science",
             "title": "Linear B Script",
             "subTitle": "Minoan",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "monk",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 2 },

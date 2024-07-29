@@ -4,9 +4,9 @@ function siegeEngines() {
             "cardType": "siege_engine",
             "folder": "troops/siege-engine",
             "title": "Caravan",
-            "placement": "army_placement",
+            "placement": "army",
             "image": "default",
-            "print": false,
+            "print": true,
             "combat": {
                 "defense": 2
             },
@@ -22,9 +22,9 @@ function siegeEngines() {
             "cardType": "siege_engine",
             "folder": "troops/siege-engine",
             "title": "Caravan",
-            "placement": "army_placement",
+            "placement": "army",
             "image": "default",
-            "print": false,
+            "print": true,
             "combat": {
                 "defense": 2
             },
@@ -38,9 +38,9 @@ function siegeEngines() {
             "cardType": "siege_engine",
             "folder": "troops/siege-engine",
             "title": "Caravan",
-            "placement": "army_placement",
+            "placement": "army",
             "image": "default",
-            "print": false,
+            "print": true,
             "combat": {
                 "defense": 2
             },
@@ -54,9 +54,9 @@ function siegeEngines() {
             "cardType": "siege_engine",
             "folder": "troops/siege-engine",
             "title": "Caravan",
-            "placement": "army_placement",
+            "placement": "army",
             "image": "default",
-            "print": false,
+            "print": true,
             "combat": {
                 "defense": 2
             },
@@ -70,9 +70,9 @@ function siegeEngines() {
             "cardType": "siege_engine",
             "folder": "troops/siege-engine",
             "title": "Catapult",
-            "placement": "army_placement",
+            "placement": "army",
             "image": "default",
-            "print": false,
+            "print": true,
             "combat": {
                 "init": 5,
                 "attack": 8,
@@ -89,9 +89,9 @@ function siegeEngines() {
             "cardType": "siege_engine",
             "folder": "troops/siege-engine",
             "title": "Trebuchet",
-            "placement": "army_placement",
+            "placement": "army",
             "image": "default",
-            "print": false,
+            "print": true,
             "combat": {
                 "init": 5,
                 "attack": 12,
@@ -109,9 +109,9 @@ function siegeEngines() {
             "cardType": "siege_engine",
             "folder": "troops/siege-engine",
             "title": "Supply wagon",
-            "placement": "army_placement",
+            "placement": "army",
             "image": "default",
-            "print": false,
+            "print": true,
             "combat": {
                 "defense": 5
             },

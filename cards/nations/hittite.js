@@ -2,12 +2,12 @@ function hittiteCards() {
     return flatten([
         {
             "cardType": "city",
-            "folder": "nations/hitite",
+            "folder": "nations/hittite",
             "title": "Hattusa",
             "subTitle": "Hittite - Starting City",
-            "placement": "city_placement",
+            "placement": "building",
             "image": "mystic",
-            "print": false,
+            "print": true,
             "combat": {
                 "defense": 14
             },
@@ -16,12 +16,12 @@ function hittiteCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "fortification",
-            "folder": "nations/hitite",
+            "folder": "nations/hittite",
             "title": "Hill Fort",
             "subTitle": "Hittite - Starting Fort",
-            "placement": "building_placement",
+            "placement": "building",
             "image": "mystic",
-            "print": false,
+            "print": true,
             "bottomCombat": {
                 "init": 6,
                 "attack": 1,
@@ -31,12 +31,12 @@ function hittiteCards() {
             "mod": [ "attrition" ]
         }, {
             "cardType": "city",
-            "folder": "nations/hitite",
+            "folder": "nations/hittite",
             "title": "Kussara",
             "subTitle": "Hittite - City 2",
-            "placement": "city_placement",
+            "placement": "building",
             "image": "mystic",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "food", "costVal": 2 }
             ],
@@ -48,12 +48,12 @@ function hittiteCards() {
             "abilitySymbol": "start"
         }, {
             "cardType": "city",
-            "folder": "nations/hitite",
+            "folder": "nations/hittite",
             "title": "Carchemish",
             "subTitle": "Hittite - City 3",
-            "placement": "city_placement",
+            "placement": "building",
             "image": "mystic",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "food", "costVal": 4 }
             ],
@@ -64,12 +64,12 @@ function hittiteCards() {
             "mod": [ "influence", "influence" ]
         }, {
             "cardType": "city",
-            "folder": "nations/hitite",
+            "folder": "nations/hittite",
             "title": "Ankuwa",
             "subTitle": "Hittite - City 4",
-            "placement": "city_placement",
+            "placement": "building",
             "image": "mystic",
-            "print": false,
+            "print": true,
             "cost": [
                 { "costType": "food", "costVal": 6 }
             ],
@@ -80,26 +80,26 @@ function hittiteCards() {
             "ability": "Build military buildings for 1 less stone",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
-            "folder": "nations/hitite",
+            "cardType": "research",
+            "folder": "nations/hittite",
             "subType": "military",
             "title": "Mercenaries",
             "subTitle": "Hittite - Starting Military",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "rome-statue",
-            "print": false,
-            "mod": [ "increase_max_army_size", "increase_max_army_size", "increase_max_army_size", "increase_max_army_size", "army_placement" ],
+            "print": true,
+            "mod": [ "increase_max_army_size", "increase_max_army_size", "increase_max_army_size", "increase_max_army_size", "army" ],
             "ability": "Recruit phase: Spend 2 wealth to draw from any military deck",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
-            "folder": "nations/hitite",
+            "cardType": "research",
+            "folder": "nations/hittite",
             "subType": "military",
             "title": "Countryside Recruits",
             "subTitle": "Hittite",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "rome-statue",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 2 },
@@ -109,60 +109,60 @@ function hittiteCards() {
             "ability": "Recruit phase: Spend 1 wealth to draw from any military deck",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
-            "folder": "nations/hitite",
+            "cardType": "research",
+            "folder": "nations/hittite",
             "subType": "military",
             "title": "Paying the Enemy",
             "subTitle": "Hittite",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "rome-statue",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 2 },
                 { "costType": "stone", "costVal": 2 }
             ],
-            "mod": [ "increase_max_army_size", "army_placement", "army_placement" ],
+            "mod": [ "increase_max_army_size", "army", "army" ],
             "ability": "Spend 1 wealth to recruit into an army that is not in a space you control",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
-            "folder": "nations/hitite",
+            "cardType": "research",
+            "folder": "nations/hittite",
             "subType": "military",
             "title": "Pursuing the King",
             "subTitle": "Hittite",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "rome-statue",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 2 },
                 { "costType": "stone", "costVal": 2 }
             ],
-            "mod": [ "increase_max_army_size", "increase_max_army_size", "army_placement" ],
+            "mod": [ "increase_max_army_size", "increase_max_army_size", "army" ],
             "ability": "After a battle, spend 1 wood to fight the battle again",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
-            "folder": "nations/hitite",
+            "cardType": "research",
+            "folder": "nations/hittite",
             "subType": "civic",
             "title": "Ruins of the Past",
             "subTitle": "Hittite - Starting Civic",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "carved-entry",
-            "print": false,
+            "print": true,
             "mod": [ "increase_city_limit" ],
             "ability": "Spend 2 stone in place of wood",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
-            "folder": "nations/hitite",
+            "cardType": "research",
+            "folder": "nations/hittite",
             "subType": "civic",
             "title": "Mountain Expansion",
             "subTitle": "Hittite",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "carved-entry",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wood", "costVal": 2 },
@@ -172,14 +172,14 @@ function hittiteCards() {
             "ability": "In the gather phase gain 1 stone",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
-            "folder": "nations/hitite",
+            "cardType": "research",
+            "folder": "nations/hittite",
             "subType": "civic",
             "title": "Stone Foundations",
             "subTitle": "Hittite",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "carved-entry",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wood", "costVal": 2 },
@@ -189,14 +189,14 @@ function hittiteCards() {
             "ability": "Spend stone in place of wood",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
-            "folder": "nations/hitite",
+            "cardType": "research",
+            "folder": "nations/hittite",
             "subType": "civic",
             "title": "Stone Walls",
             "subTitle": "Hittite",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "carved-entry",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wood", "costVal": 2 },
@@ -206,26 +206,26 @@ function hittiteCards() {
             "ability": "Cities gain 4 defense",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
-            "folder": "nations/hitite",
+            "cardType": "research",
+            "folder": "nations/hittite",
             "subType": "commerce",
             "title": "The Silver Mountains",
             "subTitle": "Hittite - Starting Commerce",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "merchant",
-            "print": false,
+            "print": true,
             "mod": [ "increase_max_income", "increase_max_income" ],
             "ability": "Spend 2 stone in place of food",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
-            "folder": "nations/hitite",
+            "cardType": "research",
+            "folder": "nations/hittite",
             "subType": "commerce",
             "title": "The Silver Mines",
             "subTitle": "Hittite",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "merchant",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 1 },
@@ -235,14 +235,14 @@ function hittiteCards() {
             "ability": "Spend 2 stone in place of wealth",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
-            "folder": "nations/hitite",
+            "cardType": "research",
+            "folder": "nations/hittite",
             "subType": "commerce",
             "title": "Hill Forests",
             "subTitle": "Hittite",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "merchant",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 1 },
@@ -252,14 +252,14 @@ function hittiteCards() {
             "ability": "Spend 1 wood and 1 stone in place of wealth",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
-            "folder": "nations/hitite",
+            "cardType": "research",
+            "folder": "nations/hittite",
             "subType": "commerce",
             "title": "Deadly Expansion",
             "subTitle": "Hittite",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "merchant",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 1 },
@@ -269,26 +269,26 @@ function hittiteCards() {
             "ability": "Gain 1 food for each enemy unit you destroy",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
-            "folder": "nations/hitite",
+            "cardType": "research",
+            "folder": "nations/hittite",
             "subType": "science",
             "title": "Carpentry",
             "subTitle": "Hittite - Starting Science",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "monk",
-            "print": false,
+            "print": true,
             "mod": [ "increase_hand_limit", "knowledge" ],
             "ability": "Gather phase: Pay wood and stone to draw an equal number of research cards",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
-            "folder": "nations/hitite",
+            "cardType": "research",
+            "folder": "nations/hittite",
             "subType": "science",
             "title": "Defensive Catapults",
             "subTitle": "Hittite",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "monk",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 2 },
@@ -298,14 +298,14 @@ function hittiteCards() {
             "ability": "In the gather phase place up to 5 stone on each city. This stone cannot be spent. When attack with this city, spend stone as damage at initiative 6.",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
-            "folder": "nations/hitite",
+            "cardType": "research",
+            "folder": "nations/hittite",
             "subType": "science",
             "title": "Regional Dominance",
             "subTitle": "Hittite",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "monk",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 2 },
@@ -315,14 +315,14 @@ function hittiteCards() {
             "ability": "Gain 1 victory point for each mountain you control",
             "abilitySymbol": "start"
         }, {
-            "cardType": "research_type",
-            "folder": "nations/hitite",
+            "cardType": "research",
+            "folder": "nations/hittite",
             "subType": "science",
             "title": "Migration",
             "subTitle": "Hittite",
-            "placement": "research_placement",
+            "placement": "research",
             "image": "monk",
-            "print": false,
+            "print": true,
             "vps": 1,
             "cost": [
                 { "costType": "wealth", "costVal": 2 },
