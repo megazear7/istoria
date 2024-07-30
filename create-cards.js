@@ -7,17 +7,15 @@ photofoundry(makeCards(), {
     clean: makeCards()[0],
     mapping: mapping,
     folder: "dist/",
-    alert: true
+    alert: false
 });
 
 function mapping(item) {
     id = item["folder"].replace("/", "_") + "_" + item["title"].replace(" ", "_").toLowerCase();
-    alert(id);
-    var background = "default";
 
     var newItem = {
         toggles: [
-            background,
+            id,
             "border",
             "title_background",
             "stone_circle_right",

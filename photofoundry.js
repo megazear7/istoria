@@ -106,8 +106,10 @@ function updateElement(location, iconName, config) {
 }
 
 function updateToggle(location, config) {
-    if (config.alert && ! doesLayerExist(toggles.layers, location)) {
-        alert("No toggle found with name " + location);
+    if (!doesLayerExist(toggles.layers, location)) {
+        if (config.alert) {
+            alert("No toggle found with name " + location);
+        }
     } else {
         var layer = toggles.layers[location];
         layer.visible = true;
