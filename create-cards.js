@@ -41,7 +41,13 @@ function mapping(item) {
     }
 
     if (item.placement) {
-        newItem.elements["placement"] = item.placement;
+        if (item.placement === "research" || item.placement === "building") {
+            newItem.elements["placement"] = "card_stack_placement";
+        } else if (item.placement === "army") {
+            newItem.elements["placement"] = "army_placement";
+        } else if (item.placement === "city") {
+            newItem.elements["placement"] = "city_placement";
+        }
     }
 
     if (item.cardType) {
@@ -115,7 +121,9 @@ function mapping(item) {
         }
     }
 
-    if (item.mod && !item.bottomCombat) {
+    if (item.mod && typeof item.mod === "string") {
+        newItem.text["desc_bottom"] = item.mod;
+    } else if (item.mod && !item.bottomCombat) {
         newItem.toggles.push("square_parchment");
         newItem.toggles.push("bottom_mod_background");
 

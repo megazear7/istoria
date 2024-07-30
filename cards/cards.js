@@ -53,7 +53,7 @@ function makeCards() {
     cards = cards.concat(objectiveCards());
 
     // Override the card list here;
-    cards = militaryBuildings();
+    cards = objectiveCards();
 
     var finalCards = [];
     for (var i = 0; i < cards.length; i++) {
