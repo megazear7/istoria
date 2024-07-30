@@ -70,7 +70,7 @@ function makeCards() {
 function arrayContains(arr, element) {
     for (var i = 0; i < arr.length; i++) {
         var tmp = arr[i];
-        if (tmp === element) {
+        if (tmp == element) {
             return true;
         }
     }
@@ -85,6 +85,7 @@ function saveCardData(cards) {
         var card = cards[i];
         id = card["folder"].replace("/", "_") + "_" + card["title"].replace(" ", "_").toLowerCase();
         if (!arrayContains(ids, id)) {
+            ids.push(id);
             jsonString += "    {\n";
             jsonString += "        \"folder\": \"" + card["folder"] + "\",\n";
             jsonString += "        \"cardType\": \"" + card["cardType"] + "\",\n";
