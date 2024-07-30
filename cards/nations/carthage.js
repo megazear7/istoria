@@ -5,7 +5,7 @@ function carthaginianCards() {
             "folder": "nations/carthage",
             "title": "TODO",
             "subTitle": "Carthage - Starting City",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "combat": {
@@ -35,7 +35,7 @@ function carthaginianCards() {
             "folder": "nations/carthage",
             "title": "TODO",
             "subTitle": "Carthage - City 2",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "cost": [
@@ -53,7 +53,7 @@ function carthaginianCards() {
             "folder": "nations/carthage",
             "title": "TODO",
             "subTitle": "Carthage - City 3",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "cost": [
@@ -71,7 +71,7 @@ function carthaginianCards() {
             "folder": "nations/carthage",
             "title": "TODO",
             "subTitle": "Carthage - City 4",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "cost": [

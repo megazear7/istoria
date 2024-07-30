@@ -5,7 +5,7 @@ function persianCards() {
             "folder": "nations/persia",
             "title": "TODO",
             "subTitle": "Persia - Starting City",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "combat": {
@@ -35,7 +35,7 @@ function persianCards() {
             "folder": "nations/persia",
             "title": "TODO",
             "subTitle": "Persia - City 2",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "cost": [
@@ -53,7 +53,7 @@ function persianCards() {
             "folder": "nations/persia",
             "title": "TODO",
             "subTitle": "Persia - City 3",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "cost": [
@@ -71,7 +71,7 @@ function persianCards() {
             "folder": "nations/persia",
             "title": "TODO",
             "subTitle": "Persia - City 4",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "cost": [

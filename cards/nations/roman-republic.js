@@ -5,7 +5,7 @@ function romanRepublicCards() {
             "folder": "nations/roman-republic",
             "title": "Rome",
             "subTitle": "Rome - Starting City",
-            "placement": "building",
+            "placement": "city",
             "image": "rome",
             "print": true,
             "combat": {
@@ -35,7 +35,7 @@ function romanRepublicCards() {
             "folder": "nations/roman-republic",
             "title": "Carthage",
             "subTitle": "Rome - City 2",
-            "placement": "building",
+            "placement": "city",
             "image": "rome",
             "print": true,
             "cost": [
@@ -52,7 +52,7 @@ function romanRepublicCards() {
             "folder": "nations/roman-republic",
             "title": "Trier",
             "subTitle": "Rome - City 3",
-            "placement": "building",
+            "placement": "city",
             "image": "rome",
             "print": true,
             "cost": [
@@ -68,7 +68,7 @@ function romanRepublicCards() {
             "folder": "nations/roman-republic",
             "title": "Nimes",
             "subTitle": "Rome - City 4",
-            "placement": "building",
+            "placement": "city",
             "image": "rome",
             "print": true,
             "cost": [

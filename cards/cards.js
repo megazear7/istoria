@@ -52,8 +52,10 @@ function makeCards() {
 
     cards = cards.concat(objectiveCards());
 
+    saveCardData(cards);
+
     // Override the card list here;
-    // cards = objectiveCards();
+    cards = egyptianCards();
 
     var finalCards = [];
     for (var i = 0; i < cards.length; i++) {
@@ -63,4 +65,38 @@ function makeCards() {
         }
     }
     return finalCards;
+}
+
+function saveCardData(cards) {
+    var jsonString = "[\n";
+    for (var i = 0; i < cards.length; i++) {
+        var card = cards[i];
+        jsonString += "    {\n";
+        jsonString += "        \"folder\": \"" + card["folder"] + "\",\n";
+        jsonString += "        \"cardType\": \"" + card["cardType"] + "\",\n";
+        jsonString += "        \"placement\": \"" + card["placement"] + "\",\n";
+        jsonString += "        \"desc\": \"" + card["desc"] + "\",\n";
+        jsonString += "        \"title\": \"" + card["title"] + "\"\n";
+        jsonString += "    }";
+        if (i < cards.length - 1) {
+            jsonString += ",";
+        }
+        jsonString += "\n";
+    }
+    jsonString += "]";
+    saveStringToFile("cards.json", jsonString);
+}
+
+function saveStringToFile(fileName, contents)
+{
+    var path = app.activeDocument.path;
+    var saveFile = File(path + "/" + fileName);
+
+    if (saveFile.exists)
+        saveFile.remove();
+
+    saveFile.encoding = "UTF8";
+    saveFile.open("e", "TEXT");
+    saveFile.writeln(contents);
+    saveFile.close();
 }

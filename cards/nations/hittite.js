@@ -5,7 +5,7 @@ function hittiteCards() {
             "folder": "nations/hittite",
             "title": "Hattusa",
             "subTitle": "Hittite - Starting City",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "combat": {
@@ -34,7 +34,7 @@ function hittiteCards() {
             "folder": "nations/hittite",
             "title": "Kussara",
             "subTitle": "Hittite - City 2",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "cost": [
@@ -51,7 +51,7 @@ function hittiteCards() {
             "folder": "nations/hittite",
             "title": "Carchemish",
             "subTitle": "Hittite - City 3",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "cost": [
@@ -67,7 +67,7 @@ function hittiteCards() {
             "folder": "nations/hittite",
             "title": "Ankuwa",
             "subTitle": "Hittite - City 4",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "cost": [

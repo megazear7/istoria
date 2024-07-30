@@ -5,7 +5,7 @@ function sumerianCards() {
             "folder": "nations/sumerian",
             "title": "Uruk",
             "subTitle": "Sumeria - Starting City",
-            "placement": "building",
+            "placement": "city",
             "image": "sumer",
             "print": true,
             "combat": {
@@ -35,7 +35,7 @@ function sumerianCards() {
             "folder": "nations/sumerian",
             "title": "Lagash",
             "subTitle": "Sumeria - City 2",
-            "placement": "building",
+            "placement": "city",
             "image": "sumer",
             "print": true,
             "cost": [
@@ -52,7 +52,7 @@ function sumerianCards() {
             "folder": "nations/sumerian",
             "title": "Larsa",
             "subTitle": "Sumeria - City 3",
-            "placement": "building",
+            "placement": "city",
             "image": "sumer",
             "print": true,
             "cost": [
@@ -70,7 +70,7 @@ function sumerianCards() {
             "folder": "nations/sumerian",
             "title": "Eridu",
             "subTitle": "Sumeria - City 4",
-            "placement": "building",
+            "placement": "city",
             "image": "sumer",
             "print": true,
             "cost": [

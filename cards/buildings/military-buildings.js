@@ -55,7 +55,7 @@ function militaryBuildings() {
         times(4, {
             "cardType": "military_building",
             "folder": "buildings/military",
-            "title": "Siege  Factory",
+            "title": "Siege Factory",
             "placement": "building",
             "image": "horses",
             "print": true,

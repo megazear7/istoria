@@ -5,7 +5,7 @@ function minoanCards() {
             "folder": "nations/minoan",
             "title": "Knossos",
             "subTitle": "Minoan - Starting City",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "combat": {
@@ -34,7 +34,7 @@ function minoanCards() {
             "folder": "nations/minoan",
             "title": "Zakros",
             "subTitle": "Minoan - City 2",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "cost": [
@@ -51,7 +51,7 @@ function minoanCards() {
             "folder": "nations/minoan",
             "title": "Malia",
             "subTitle": "Minoan - City 3",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "cost": [
@@ -69,7 +69,7 @@ function minoanCards() {
             "folder": "nations/minoan",
             "title": "Phaistos",
             "subTitle": "Minoan - City 4",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "cost": [

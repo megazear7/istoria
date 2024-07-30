@@ -5,7 +5,7 @@ function greekCards() {
             "folder": "nations/greek",
             "title": "TODO",
             "subTitle": "Greek - Starting City",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "combat": {
@@ -35,7 +35,7 @@ function greekCards() {
             "folder": "nations/greek",
             "title": "TODO",
             "subTitle": "Greek - City 2",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "cost": [
@@ -53,7 +53,7 @@ function greekCards() {
             "folder": "nations/greek",
             "title": "TODO",
             "subTitle": "Greek - City 3",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "cost": [
@@ -71,7 +71,7 @@ function greekCards() {
             "folder": "nations/greek",
             "title": "TODO",
             "subTitle": "Greek - City 4",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "cost": [

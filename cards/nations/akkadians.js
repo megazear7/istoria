@@ -5,7 +5,7 @@ function akkadianCards() {
             "folder": "nations/akkadians",
             "title": "Akkad",
             "subTitle": "Akkadians - Starting City",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "combat": {
@@ -35,7 +35,7 @@ function akkadianCards() {
             "folder": "nations/akkadians",
             "title": "Akshak",
             "subTitle": "Akkadians - City 2",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "cost": [
@@ -53,7 +53,7 @@ function akkadianCards() {
             "folder": "nations/akkadians",
             "title": "Kish",
             "subTitle": "Akkadians - City 3",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "cost": [
@@ -71,7 +71,7 @@ function akkadianCards() {
             "folder": "nations/akkadians",
             "title": "Larak",
             "subTitle": "Akkadians - City 4",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "cost": [

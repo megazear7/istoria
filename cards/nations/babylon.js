@@ -5,7 +5,7 @@ function babylonianCards() {
             "folder": "nations/babylon",
             "title": "Babylon",
             "subTitle": "Babylon - Starting City",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "combat": {
@@ -34,7 +34,7 @@ function babylonianCards() {
             "folder": "nations/babylon",
             "title": "Sippar",
             "subTitle": "Babylon - City 2",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "cost": [
@@ -51,7 +51,7 @@ function babylonianCards() {
             "folder": "nations/babylon",
             "title": "Isin",
             "subTitle": "Babylon - City 3",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "cost": [
@@ -69,7 +69,7 @@ function babylonianCards() {
             "folder": "nations/babylon",
             "title": "Nippur",
             "subTitle": "Babylon - City 4",
-            "placement": "building",
+            "placement": "city",
             "image": "mystic",
             "print": true,
             "cost": [
