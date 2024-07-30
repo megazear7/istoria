@@ -1,3061 +1,1 @@
-[
-    {
-        "folder": "nations/sumerian",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "The first city; the birth of civilization; wrapped in myth, draped in the first glories of man.",
-        "title": "Uruk"
-    },
-    {
-        "folder": "nations/sumerian",
-        "cardType": "fortification",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "The First Walls"
-    },
-    {
-        "folder": "nations/sumerian",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "Lagash"
-    },
-    {
-        "folder": "nations/sumerian",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "Larsa"
-    },
-    {
-        "folder": "nations/sumerian",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "Eridu"
-    },
-    {
-        "folder": "nations/sumerian",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Warrior King"
-    },
-    {
-        "folder": "nations/sumerian",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Slave Labor"
-    },
-    {
-        "folder": "nations/sumerian",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Gutian Slaves"
-    },
-    {
-        "folder": "nations/sumerian",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Priest Kings"
-    },
-    {
-        "folder": "nations/sumerian",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Surrounding Deserts"
-    },
-    {
-        "folder": "nations/sumerian",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Dawn Walls"
-    },
-    {
-        "folder": "nations/sumerian",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Advanced Cultivation"
-    },
-    {
-        "folder": "nations/sumerian",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Canals"
-    },
-    {
-        "folder": "nations/sumerian",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Toll roads"
-    },
-    {
-        "folder": "nations/sumerian",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "The Forests of Lebanon"
-    },
-    {
-        "folder": "nations/sumerian",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Trading on the Tigris"
-    },
-    {
-        "folder": "nations/sumerian",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Toll roads"
-    },
-    {
-        "folder": "nations/sumerian",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Codex"
-    },
-    {
-        "folder": "nations/sumerian",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Reed Bundles"
-    },
-    {
-        "folder": "nations/sumerian",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Edubba"
-    },
-    {
-        "folder": "nations/sumerian",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "The Plow"
-    },
-    {
-        "folder": "nations/akkadians",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "Sargon: King of Sumer and Akkad",
-        "title": "Akkad"
-    },
-    {
-        "folder": "nations/akkadians",
-        "cardType": "fortification",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "City Walls"
-    },
-    {
-        "folder": "nations/akkadians",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "Akshak"
-    },
-    {
-        "folder": "nations/akkadians",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "Kish"
-    },
-    {
-        "folder": "nations/akkadians",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "Larak"
-    },
-    {
-        "folder": "nations/akkadians",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "The First Empire"
-    },
-    {
-        "folder": "nations/akkadians",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "King of Sumer and Akkad"
-    },
-    {
-        "folder": "nations/akkadians",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Raids into Canaan"
-    },
-    {
-        "folder": "nations/akkadians",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "King of Four Quarters"
-    },
-    {
-        "folder": "nations/akkadians",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Victory Stele"
-    },
-    {
-        "folder": "nations/akkadians",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Emperial Roads"
-    },
-    {
-        "folder": "nations/akkadians",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Lugal Palace"
-    },
-    {
-        "folder": "nations/akkadians",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Records of the Ensi"
-    },
-    {
-        "folder": "nations/akkadians",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Tax Collectors"
-    },
-    {
-        "folder": "nations/akkadians",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Trade with Meluhha"
-    },
-    {
-        "folder": "nations/akkadians",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Boats of the Upper Sea"
-    },
-    {
-        "folder": "nations/akkadians",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "The Silver Mountains"
-    },
-    {
-        "folder": "nations/akkadians",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Semitic Language"
-    },
-    {
-        "folder": "nations/akkadians",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Barley and Beer"
-    },
-    {
-        "folder": "nations/akkadians",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Household Production"
-    },
-    {
-        "folder": "nations/akkadians",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Mail Carriers"
-    },
-    {
-        "folder": "nations/egypt",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "Menes"
-    },
-    {
-        "folder": "nations/egypt",
-        "cardType": "fortification",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Walls of the Ruler"
-    },
-    {
-        "folder": "nations/egypt",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "Thebes"
-    },
-    {
-        "folder": "nations/egypt",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "Memphis"
-    },
-    {
-        "folder": "nations/egypt",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "Abydos"
-    },
-    {
-        "folder": "nations/egypt",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Pharaoh's Guard"
-    },
-    {
-        "folder": "nations/egypt",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Pharoh's March"
-    },
-    {
-        "folder": "nations/egypt",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "War Chariot"
-    },
-    {
-        "folder": "nations/egypt",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Sea Peoples Attack"
-    },
-    {
-        "folder": "nations/egypt",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Flooding of the Nile"
-    },
-    {
-        "folder": "nations/egypt",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Pyarmid Building"
-    },
-    {
-        "folder": "nations/egypt",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Corvee Labor"
-    },
-    {
-        "folder": "nations/egypt",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Hieroglyphs"
-    },
-    {
-        "folder": "nations/egypt",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Grain Storage"
-    },
-    {
-        "folder": "nations/egypt",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Minoan Traders"
-    },
-    {
-        "folder": "nations/egypt",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Kingly Gifts"
-    },
-    {
-        "folder": "nations/egypt",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Coinage"
-    },
-    {
-        "folder": "nations/egypt",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Divine Pharaoh"
-    },
-    {
-        "folder": "nations/egypt",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Khopesh"
-    },
-    {
-        "folder": "nations/egypt",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Egyptian Faience"
-    },
-    {
-        "folder": "nations/egypt",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Wooden Scaffolding"
-    },
-    {
-        "folder": "nations/minoan",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "Knossos"
-    },
-    {
-        "folder": "nations/minoan",
-        "cardType": "fortification",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Minotaur Labyrinth"
-    },
-    {
-        "folder": "nations/minoan",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "Zakros"
-    },
-    {
-        "folder": "nations/minoan",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "Malia"
-    },
-    {
-        "folder": "nations/minoan",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "Phaistos"
-    },
-    {
-        "folder": "nations/minoan",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Raiding"
-    },
-    {
-        "folder": "nations/minoan",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Pillaging"
-    },
-    {
-        "folder": "nations/minoan",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Palace Armies"
-    },
-    {
-        "folder": "nations/minoan",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Raiding by Sea"
-    },
-    {
-        "folder": "nations/minoan",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Far Off Colonies"
-    },
-    {
-        "folder": "nations/minoan",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Over Sea Colonies"
-    },
-    {
-        "folder": "nations/minoan",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Palaces"
-    },
-    {
-        "folder": "nations/minoan",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Trading Post"
-    },
-    {
-        "folder": "nations/minoan",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Setting Sail"
-    },
-    {
-        "folder": "nations/minoan",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Mediterranean Trade"
-    },
-    {
-        "folder": "nations/minoan",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Returning Wealthy"
-    },
-    {
-        "folder": "nations/minoan",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Palaces of Treasure"
-    },
-    {
-        "folder": "nations/minoan",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Mediterranean Sails"
-    },
-    {
-        "folder": "nations/minoan",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Large Hauls"
-    },
-    {
-        "folder": "nations/minoan",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Mercantile Lands"
-    },
-    {
-        "folder": "nations/minoan",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Linear B Script"
-    },
-    {
-        "folder": "nations/hittite",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "Hattusa"
-    },
-    {
-        "folder": "nations/hittite",
-        "cardType": "fortification",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Hill Fort"
-    },
-    {
-        "folder": "nations/hittite",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "Kussara"
-    },
-    {
-        "folder": "nations/hittite",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "Carchemish"
-    },
-    {
-        "folder": "nations/hittite",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "Ankuwa"
-    },
-    {
-        "folder": "nations/hittite",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Mercenaries"
-    },
-    {
-        "folder": "nations/hittite",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Countryside Recruits"
-    },
-    {
-        "folder": "nations/hittite",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Paying the Enemy"
-    },
-    {
-        "folder": "nations/hittite",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Pursuing the King"
-    },
-    {
-        "folder": "nations/hittite",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Ruins of the Past"
-    },
-    {
-        "folder": "nations/hittite",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Mountain Expansion"
-    },
-    {
-        "folder": "nations/hittite",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Stone Foundations"
-    },
-    {
-        "folder": "nations/hittite",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Stone Walls"
-    },
-    {
-        "folder": "nations/hittite",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "The Silver Mountains"
-    },
-    {
-        "folder": "nations/hittite",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "The Silver Mines"
-    },
-    {
-        "folder": "nations/hittite",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Hill Forests"
-    },
-    {
-        "folder": "nations/hittite",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Deadly Expansion"
-    },
-    {
-        "folder": "nations/hittite",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Carpentry"
-    },
-    {
-        "folder": "nations/hittite",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Defensive Catapults"
-    },
-    {
-        "folder": "nations/hittite",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Regional Dominance"
-    },
-    {
-        "folder": "nations/hittite",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Migration"
-    },
-    {
-        "folder": "nations/babylon",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "Babylon"
-    },
-    {
-        "folder": "nations/babylon",
-        "cardType": "fortification",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Towers of Babylon"
-    },
-    {
-        "folder": "nations/babylon",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "Sippar"
-    },
-    {
-        "folder": "nations/babylon",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "Isin"
-    },
-    {
-        "folder": "nations/babylon",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "Nippur"
-    },
-    {
-        "folder": "nations/babylon",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Hammurabi's Rule"
-    },
-    {
-        "folder": "nations/babylon",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Kassite Domination"
-    },
-    {
-        "folder": "nations/babylon",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Inheritors of Sargon"
-    },
-    {
-        "folder": "nations/babylon",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Bladed Mace"
-    },
-    {
-        "folder": "nations/babylon",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Gate of the Gods"
-    },
-    {
-        "folder": "nations/babylon",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Love of Ishtar"
-    },
-    {
-        "folder": "nations/babylon",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Hammurabi's Law Code"
-    },
-    {
-        "folder": "nations/babylon",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Hanging Gardens"
-    },
-    {
-        "folder": "nations/babylon",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Gifts to the Ziggurat"
-    },
-    {
-        "folder": "nations/babylon",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Boats of Euphrate"
-    },
-    {
-        "folder": "nations/babylon",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Pharaoh's Gift"
-    },
-    {
-        "folder": "nations/babylon",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Land Tax"
-    },
-    {
-        "folder": "nations/babylon",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "City Judges"
-    },
-    {
-        "folder": "nations/babylon",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Zapping Pots"
-    },
-    {
-        "folder": "nations/babylon",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Plow of Ninurta"
-    },
-    {
-        "folder": "nations/babylon",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Dividing the Circle"
-    },
-    {
-        "folder": "nations/roman-republic",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "Rome, the Eternal City. Might of the Great Empire. The seat of emperors and popes.",
-        "title": "Rome"
-    },
-    {
-        "folder": "nations/roman-republic",
-        "cardType": "fortification",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Romn Fort"
-    },
-    {
-        "folder": "nations/roman-republic",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "Carthage"
-    },
-    {
-        "folder": "nations/roman-republic",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "Trier"
-    },
-    {
-        "folder": "nations/roman-republic",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "Nimes"
-    },
-    {
-        "folder": "nations/roman-republic",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Recruitment"
-    },
-    {
-        "folder": "nations/roman-republic",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Forges"
-    },
-    {
-        "folder": "nations/roman-republic",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Annexation"
-    },
-    {
-        "folder": "nations/roman-republic",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Centurian"
-    },
-    {
-        "folder": "nations/roman-republic",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Army Labor"
-    },
-    {
-        "folder": "nations/roman-republic",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Blockade"
-    },
-    {
-        "folder": "nations/roman-republic",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Roads of Rome"
-    },
-    {
-        "folder": "nations/roman-republic",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Paving"
-    },
-    {
-        "folder": "nations/roman-republic",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Toll roads"
-    },
-    {
-        "folder": "nations/roman-republic",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Trading Vessels"
-    },
-    {
-        "folder": "nations/roman-republic",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Wealth of Aristocrats"
-    },
-    {
-        "folder": "nations/roman-republic",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Taxation"
-    },
-    {
-        "folder": "nations/roman-republic",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Codex"
-    },
-    {
-        "folder": "nations/roman-republic",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Legions"
-    },
-    {
-        "folder": "nations/roman-republic",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Neoplatonism"
-    },
-    {
-        "folder": "nations/roman-republic",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "Concrete"
-    },
-    {
-        "folder": "nations/greek",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "TODO",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/greek",
-        "cardType": "fortification",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/greek",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/greek",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/greek",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/greek",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/greek",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/greek",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/greek",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/greek",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/greek",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/greek",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/greek",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/greek",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/greek",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/greek",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/greek",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/greek",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/greek",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/greek",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/greek",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/carthage",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "TODO",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/carthage",
-        "cardType": "fortification",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/carthage",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/carthage",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/carthage",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/carthage",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/carthage",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/carthage",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/carthage",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/carthage",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/carthage",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/carthage",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/carthage",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/carthage",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/carthage",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/carthage",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/carthage",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/carthage",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/carthage",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/carthage",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/carthage",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/persia",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "TODO",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/persia",
-        "cardType": "fortification",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/persia",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/persia",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/persia",
-        "cardType": "city",
-        "placement": "city",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/persia",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/persia",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/persia",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/persia",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/persia",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/persia",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/persia",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/persia",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/persia",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/persia",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/persia",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/persia",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/persia",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/persia",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/persia",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "nations/persia",
-        "cardType": "research",
-        "placement": "research",
-        "desc": "undefined",
-        "title": "TODO"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Spearmen"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Spearmen"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Spearmen"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Spearmen"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Spearmen"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Spearmen"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Spearmen"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Spearmen"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Scout"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Scout"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Scout"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Scout"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Warband"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Warband"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Warband"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Warband"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Raiders"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Raiders"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Raiders"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Raiders"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Warriors"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Warriors"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Warriors"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Warriors"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Aristocrat"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Aristocrat"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Captain"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Captain"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Captain"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Captain"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Bowmen"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Bowmen"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Bowmen"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Bowmen"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Bowmen"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Bowmen"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Bowmen"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Bowmen"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Archer"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Archer"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Archer"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Archer"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Archer"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Archer"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Archer"
-    },
-    {
-        "folder": "troops/foot",
-        "cardType": "foot_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Archer"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Light Horse"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Light Horse"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Light Horse"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Light Horse"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Light Horse"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Light Horse"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Ranger"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Ranger"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Ranger"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Ranger"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Mounted Archers"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Mounted Archers"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Mounted Archers"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted_ranged",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Mounted Archers"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Knight"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Knight"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Knight"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Knight"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Advisor"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Advisor"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "General"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "General"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "King"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "King"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Emperor"
-    },
-    {
-        "folder": "troops/mounted",
-        "cardType": "mounted",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Emperor"
-    },
-    {
-        "folder": "troops/siege-engine",
-        "cardType": "siege_engine",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Caravan"
-    },
-    {
-        "folder": "troops/siege-engine",
-        "cardType": "siege_engine",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Caravan"
-    },
-    {
-        "folder": "troops/siege-engine",
-        "cardType": "siege_engine",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Caravan"
-    },
-    {
-        "folder": "troops/siege-engine",
-        "cardType": "siege_engine",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Caravan"
-    },
-    {
-        "folder": "troops/siege-engine",
-        "cardType": "siege_engine",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Catapult"
-    },
-    {
-        "folder": "troops/siege-engine",
-        "cardType": "siege_engine",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Catapult"
-    },
-    {
-        "folder": "troops/siege-engine",
-        "cardType": "siege_engine",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Catapult"
-    },
-    {
-        "folder": "troops/siege-engine",
-        "cardType": "siege_engine",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Catapult"
-    },
-    {
-        "folder": "troops/siege-engine",
-        "cardType": "siege_engine",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Trebuchet"
-    },
-    {
-        "folder": "troops/siege-engine",
-        "cardType": "siege_engine",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Trebuchet"
-    },
-    {
-        "folder": "troops/siege-engine",
-        "cardType": "siege_engine",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Trebuchet"
-    },
-    {
-        "folder": "troops/siege-engine",
-        "cardType": "siege_engine",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Trebuchet"
-    },
-    {
-        "folder": "troops/siege-engine",
-        "cardType": "siege_engine",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Supply wagon"
-    },
-    {
-        "folder": "troops/siege-engine",
-        "cardType": "siege_engine",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Supply wagon"
-    },
-    {
-        "folder": "troops/siege-engine",
-        "cardType": "siege_engine",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Supply wagon"
-    },
-    {
-        "folder": "troops/siege-engine",
-        "cardType": "siege_engine",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Supply wagon"
-    },
-    {
-        "folder": "troops/siege-engine",
-        "cardType": "siege_engine",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Supply wagon"
-    },
-    {
-        "folder": "troops/siege-engine",
-        "cardType": "siege_engine",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Supply wagon"
-    },
-    {
-        "folder": "troops/siege-engine",
-        "cardType": "siege_engine",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Supply wagon"
-    },
-    {
-        "folder": "troops/siege-engine",
-        "cardType": "siege_engine",
-        "placement": "army",
-        "desc": "undefined",
-        "title": "Supply wagon"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Farm"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Farm"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Farm"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Farm"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Farm"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Large Farm"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Large Farm"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Large Farm"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Large Farm"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Large Farm"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Lumber Mill"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Lumber Mill"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Lumber Mill"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Lumber Mill"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Lumber Mill"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Large Lumber Mill"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Large Lumber Mill"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Large Lumber Mill"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Large Lumber Mill"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Mine"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Mine"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Mine"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Mine"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Large Mine"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Large Mine"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Large Mine"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Large Mine"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Market"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Market"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Market"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Market"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Market"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Market"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Market"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Market"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Temple"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Temple"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Temple"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Temple"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "University"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "University"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "University"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "University"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Palace"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Palace"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Palace"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Palace"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Grainery"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Grainery"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Grainery"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Grainery"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Sawmill"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Sawmill"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Sawmill"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Sawmill"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Refinery"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Refinery"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Refinery"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Refinery"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Banquet Hall"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "The Grand Bridge"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Marbled Decorum"
-    },
-    {
-        "folder": "buildings/civic",
-        "cardType": "civic_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Kings Gifts"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Barracks"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Barracks"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Barracks"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Barracks"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Barracks"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Barracks"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Barracks"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Barracks"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Barracks"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Barracks"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Stable"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Stable"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Stable"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Stable"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Stable"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Stable"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Stable"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Stable"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Siege Factory"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Siege Factory"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Siege Factory"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Siege Factory"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Siege Factory"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Siege Factory"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Siege Factory"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "military_building",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Siege Factory"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "fortification",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Tower"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "fortification",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Tower"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "fortification",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Tower"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "fortification",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Tower"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "fortification",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Fort"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "fortification",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Fort"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "fortification",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Fort"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "fortification",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Fort"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "fortification",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Castle"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "fortification",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Castle"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "fortification",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Castle"
-    },
-    {
-        "folder": "buildings/military",
-        "cardType": "fortification",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Castle"
-    },
-    {
-        "folder": "buildings/wonders",
-        "cardType": "wonder",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Colosseum"
-    },
-    {
-        "folder": "buildings/wonders",
-        "cardType": "wonder",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Hagia Sophia"
-    },
-    {
-        "folder": "buildings/wonders",
-        "cardType": "wonder",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Pyramids of Giza"
-    },
-    {
-        "folder": "buildings/wonders",
-        "cardType": "wonder",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Parthenon"
-    },
-    {
-        "folder": "buildings/wonders",
-        "cardType": "wonder",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Mosque of Mecca"
-    },
-    {
-        "folder": "buildings/wonders",
-        "cardType": "wonder",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Taj Mahal"
-    },
-    {
-        "folder": "buildings/wonders",
-        "cardType": "wonder",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Lighthouse of Alexandria"
-    },
-    {
-        "folder": "buildings/wonders",
-        "cardType": "wonder",
-        "placement": "building",
-        "desc": "undefined",
-        "title": "Tikal"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "Balanced Economy"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "Horded Goods"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "Advanced Economy"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "Great Knowledge"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "Wonderous Empire"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "Thieves of Ambition"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "Balanced Army"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "Overwhelming Training"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "Support of the Land"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "Great Power"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "Abundant Faith"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "Abundant Knowledge"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "Great Defenses"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "Grand Army"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "Greatest Production"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "Grand Strategy"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "Great Leadership"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "Sea Lords"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "Rulers of the Steppe"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "Rulers of the Field"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "Rulers of the Forest"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "Rulers of the Mountains"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "Grand Nation"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "First Wonder"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "First Wonder"
-    },
-    {
-        "folder": "objectives",
-        "cardType": "white_victory_point",
-        "placement": "white_victory_point",
-        "desc": "undefined",
-        "title": "First Wonder"
-    }
-]
+[    {        "folder": "nations/sumerian",        "cardType": "city",        "placement": "city",        "desc": "The first city; the birth of civilization; wrapped in myth, draped in the first glories of man.",        "id": "nations_sumerian_uruk",        "title": "Uruk"    },    {        "folder": "nations/sumerian",        "cardType": "fortification",        "placement": "building",        "desc": "undefined",        "id": "nations_sumerian_the_first walls",        "title": "The First Walls"    },    {        "folder": "nations/sumerian",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_sumerian_lagash",        "title": "Lagash"    },    {        "folder": "nations/sumerian",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_sumerian_larsa",        "title": "Larsa"    },    {        "folder": "nations/sumerian",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_sumerian_eridu",        "title": "Eridu"    },    {        "folder": "nations/sumerian",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_sumerian_warrior_king",        "title": "Warrior King"    },    {        "folder": "nations/sumerian",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_sumerian_slave_labor",        "title": "Slave Labor"    },    {        "folder": "nations/sumerian",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_sumerian_gutian_slaves",        "title": "Gutian Slaves"    },    {        "folder": "nations/sumerian",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_sumerian_priest_kings",        "title": "Priest Kings"    },    {        "folder": "nations/sumerian",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_sumerian_surrounding_deserts",        "title": "Surrounding Deserts"    },    {        "folder": "nations/sumerian",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_sumerian_dawn_walls",        "title": "Dawn Walls"    },    {        "folder": "nations/sumerian",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_sumerian_advanced_cultivation",        "title": "Advanced Cultivation"    },    {        "folder": "nations/sumerian",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_sumerian_canals",        "title": "Canals"    },    {        "folder": "nations/sumerian",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_sumerian_toll_roads",        "title": "Toll roads"    },    {        "folder": "nations/sumerian",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_sumerian_the_forests of lebanon",        "title": "The Forests of Lebanon"    },    {        "folder": "nations/sumerian",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_sumerian_trading_on the tigris",        "title": "Trading on the Tigris"    },    {        "folder": "nations/sumerian",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_sumerian_toll_roads",        "title": "Toll roads"    },    {        "folder": "nations/sumerian",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_sumerian_codex",        "title": "Codex"    },    {        "folder": "nations/sumerian",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_sumerian_reed_bundles",        "title": "Reed Bundles"    },    {        "folder": "nations/sumerian",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_sumerian_edubba",        "title": "Edubba"    },    {        "folder": "nations/sumerian",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_sumerian_the_plow",        "title": "The Plow"    },    {        "folder": "nations/akkadians",        "cardType": "city",        "placement": "city",        "desc": "Sargon: King of Sumer and Akkad",        "id": "nations_akkadians_akkad",        "title": "Akkad"    },    {        "folder": "nations/akkadians",        "cardType": "fortification",        "placement": "building",        "desc": "undefined",        "id": "nations_akkadians_city_walls",        "title": "City Walls"    },    {        "folder": "nations/akkadians",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_akkadians_akshak",        "title": "Akshak"    },    {        "folder": "nations/akkadians",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_akkadians_kish",        "title": "Kish"    },    {        "folder": "nations/akkadians",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_akkadians_larak",        "title": "Larak"    },    {        "folder": "nations/akkadians",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_akkadians_the_first empire",        "title": "The First Empire"    },    {        "folder": "nations/akkadians",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_akkadians_king_of sumer and akkad",        "title": "King of Sumer and Akkad"    },    {        "folder": "nations/akkadians",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_akkadians_raids_into canaan",        "title": "Raids into Canaan"    },    {        "folder": "nations/akkadians",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_akkadians_king_of four quarters",        "title": "King of Four Quarters"    },    {        "folder": "nations/akkadians",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_akkadians_victory_stele",        "title": "Victory Stele"    },    {        "folder": "nations/akkadians",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_akkadians_emperial_roads",        "title": "Emperial Roads"    },    {        "folder": "nations/akkadians",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_akkadians_lugal_palace",        "title": "Lugal Palace"    },    {        "folder": "nations/akkadians",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_akkadians_records_of the ensi",        "title": "Records of the Ensi"    },    {        "folder": "nations/akkadians",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_akkadians_tax_collectors",        "title": "Tax Collectors"    },    {        "folder": "nations/akkadians",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_akkadians_trade_with meluhha",        "title": "Trade with Meluhha"    },    {        "folder": "nations/akkadians",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_akkadians_boats_of the upper sea",        "title": "Boats of the Upper Sea"    },    {        "folder": "nations/akkadians",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_akkadians_the_silver mountains",        "title": "The Silver Mountains"    },    {        "folder": "nations/akkadians",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_akkadians_semitic_language",        "title": "Semitic Language"    },    {        "folder": "nations/akkadians",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_akkadians_barley_and beer",        "title": "Barley and Beer"    },    {        "folder": "nations/akkadians",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_akkadians_household_production",        "title": "Household Production"    },    {        "folder": "nations/akkadians",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_akkadians_mail_carriers",        "title": "Mail Carriers"    },    {        "folder": "nations/egypt",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_egypt_menes",        "title": "Menes"    },    {        "folder": "nations/egypt",        "cardType": "fortification",        "placement": "building",        "desc": "undefined",        "id": "nations_egypt_walls_of the ruler",        "title": "Walls of the Ruler"    },    {        "folder": "nations/egypt",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_egypt_thebes",        "title": "Thebes"    },    {        "folder": "nations/egypt",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_egypt_memphis",        "title": "Memphis"    },    {        "folder": "nations/egypt",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_egypt_abydos",        "title": "Abydos"    },    {        "folder": "nations/egypt",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_egypt_pharaoh's_guard",        "title": "Pharaoh's Guard"    },    {        "folder": "nations/egypt",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_egypt_pharoh's_march",        "title": "Pharoh's March"    },    {        "folder": "nations/egypt",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_egypt_war_chariot",        "title": "War Chariot"    },    {        "folder": "nations/egypt",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_egypt_sea_peoples attack",        "title": "Sea Peoples Attack"    },    {        "folder": "nations/egypt",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_egypt_flooding_of the nile",        "title": "Flooding of the Nile"    },    {        "folder": "nations/egypt",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_egypt_pyarmid_building",        "title": "Pyarmid Building"    },    {        "folder": "nations/egypt",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_egypt_corvee_labor",        "title": "Corvee Labor"    },    {        "folder": "nations/egypt",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_egypt_hieroglyphs",        "title": "Hieroglyphs"    },    {        "folder": "nations/egypt",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_egypt_grain_storage",        "title": "Grain Storage"    },    {        "folder": "nations/egypt",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_egypt_minoan_traders",        "title": "Minoan Traders"    },    {        "folder": "nations/egypt",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_egypt_kingly_gifts",        "title": "Kingly Gifts"    },    {        "folder": "nations/egypt",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_egypt_coinage",        "title": "Coinage"    },    {        "folder": "nations/egypt",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_egypt_divine_pharaoh",        "title": "Divine Pharaoh"    },    {        "folder": "nations/egypt",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_egypt_khopesh",        "title": "Khopesh"    },    {        "folder": "nations/egypt",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_egypt_egyptian_faience",        "title": "Egyptian Faience"    },    {        "folder": "nations/egypt",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_egypt_wooden_scaffolding",        "title": "Wooden Scaffolding"    },    {        "folder": "nations/minoan",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_minoan_knossos",        "title": "Knossos"    },    {        "folder": "nations/minoan",        "cardType": "fortification",        "placement": "building",        "desc": "undefined",        "id": "nations_minoan_minotaur_labyrinth",        "title": "Minotaur Labyrinth"    },    {        "folder": "nations/minoan",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_minoan_zakros",        "title": "Zakros"    },    {        "folder": "nations/minoan",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_minoan_malia",        "title": "Malia"    },    {        "folder": "nations/minoan",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_minoan_phaistos",        "title": "Phaistos"    },    {        "folder": "nations/minoan",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_minoan_raiding",        "title": "Raiding"    },    {        "folder": "nations/minoan",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_minoan_pillaging",        "title": "Pillaging"    },    {        "folder": "nations/minoan",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_minoan_palace_armies",        "title": "Palace Armies"    },    {        "folder": "nations/minoan",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_minoan_raiding_by sea",        "title": "Raiding by Sea"    },    {        "folder": "nations/minoan",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_minoan_far_off colonies",        "title": "Far Off Colonies"    },    {        "folder": "nations/minoan",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_minoan_over_sea colonies",        "title": "Over Sea Colonies"    },    {        "folder": "nations/minoan",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_minoan_palaces",        "title": "Palaces"    },    {        "folder": "nations/minoan",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_minoan_trading_post",        "title": "Trading Post"    },    {        "folder": "nations/minoan",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_minoan_setting_sail",        "title": "Setting Sail"    },    {        "folder": "nations/minoan",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_minoan_mediterranean_trade",        "title": "Mediterranean Trade"    },    {        "folder": "nations/minoan",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_minoan_returning_wealthy",        "title": "Returning Wealthy"    },    {        "folder": "nations/minoan",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_minoan_palaces_of treasure",        "title": "Palaces of Treasure"    },    {        "folder": "nations/minoan",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_minoan_mediterranean_sails",        "title": "Mediterranean Sails"    },    {        "folder": "nations/minoan",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_minoan_large_hauls",        "title": "Large Hauls"    },    {        "folder": "nations/minoan",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_minoan_mercantile_lands",        "title": "Mercantile Lands"    },    {        "folder": "nations/minoan",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_minoan_linear_b script",        "title": "Linear B Script"    },    {        "folder": "nations/hittite",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_hittite_hattusa",        "title": "Hattusa"    },    {        "folder": "nations/hittite",        "cardType": "fortification",        "placement": "building",        "desc": "undefined",        "id": "nations_hittite_hill_fort",        "title": "Hill Fort"    },    {        "folder": "nations/hittite",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_hittite_kussara",        "title": "Kussara"    },    {        "folder": "nations/hittite",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_hittite_carchemish",        "title": "Carchemish"    },    {        "folder": "nations/hittite",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_hittite_ankuwa",        "title": "Ankuwa"    },    {        "folder": "nations/hittite",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_hittite_mercenaries",        "title": "Mercenaries"    },    {        "folder": "nations/hittite",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_hittite_countryside_recruits",        "title": "Countryside Recruits"    },    {        "folder": "nations/hittite",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_hittite_paying_the enemy",        "title": "Paying the Enemy"    },    {        "folder": "nations/hittite",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_hittite_pursuing_the king",        "title": "Pursuing the King"    },    {        "folder": "nations/hittite",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_hittite_ruins_of the past",        "title": "Ruins of the Past"    },    {        "folder": "nations/hittite",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_hittite_mountain_expansion",        "title": "Mountain Expansion"    },    {        "folder": "nations/hittite",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_hittite_stone_foundations",        "title": "Stone Foundations"    },    {        "folder": "nations/hittite",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_hittite_stone_walls",        "title": "Stone Walls"    },    {        "folder": "nations/hittite",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_hittite_the_silver mountains",        "title": "The Silver Mountains"    },    {        "folder": "nations/hittite",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_hittite_the_silver mines",        "title": "The Silver Mines"    },    {        "folder": "nations/hittite",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_hittite_hill_forests",        "title": "Hill Forests"    },    {        "folder": "nations/hittite",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_hittite_deadly_expansion",        "title": "Deadly Expansion"    },    {        "folder": "nations/hittite",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_hittite_carpentry",        "title": "Carpentry"    },    {        "folder": "nations/hittite",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_hittite_defensive_catapults",        "title": "Defensive Catapults"    },    {        "folder": "nations/hittite",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_hittite_regional_dominance",        "title": "Regional Dominance"    },    {        "folder": "nations/hittite",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_hittite_migration",        "title": "Migration"    },    {        "folder": "nations/babylon",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_babylon_babylon",        "title": "Babylon"    },    {        "folder": "nations/babylon",        "cardType": "fortification",        "placement": "building",        "desc": "undefined",        "id": "nations_babylon_towers_of babylon",        "title": "Towers of Babylon"    },    {        "folder": "nations/babylon",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_babylon_sippar",        "title": "Sippar"    },    {        "folder": "nations/babylon",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_babylon_isin",        "title": "Isin"    },    {        "folder": "nations/babylon",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_babylon_nippur",        "title": "Nippur"    },    {        "folder": "nations/babylon",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_babylon_hammurabi's_rule",        "title": "Hammurabi's Rule"    },    {        "folder": "nations/babylon",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_babylon_kassite_domination",        "title": "Kassite Domination"    },    {        "folder": "nations/babylon",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_babylon_inheritors_of sargon",        "title": "Inheritors of Sargon"    },    {        "folder": "nations/babylon",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_babylon_bladed_mace",        "title": "Bladed Mace"    },    {        "folder": "nations/babylon",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_babylon_gate_of the gods",        "title": "Gate of the Gods"    },    {        "folder": "nations/babylon",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_babylon_love_of ishtar",        "title": "Love of Ishtar"    },    {        "folder": "nations/babylon",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_babylon_hammurabi's_law code",        "title": "Hammurabi's Law Code"    },    {        "folder": "nations/babylon",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_babylon_hanging_gardens",        "title": "Hanging Gardens"    },    {        "folder": "nations/babylon",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_babylon_gifts_to the ziggurat",        "title": "Gifts to the Ziggurat"    },    {        "folder": "nations/babylon",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_babylon_boats_of euphrate",        "title": "Boats of Euphrate"    },    {        "folder": "nations/babylon",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_babylon_pharaoh's_gift",        "title": "Pharaoh's Gift"    },    {        "folder": "nations/babylon",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_babylon_land_tax",        "title": "Land Tax"    },    {        "folder": "nations/babylon",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_babylon_city_judges",        "title": "City Judges"    },    {        "folder": "nations/babylon",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_babylon_zapping_pots",        "title": "Zapping Pots"    },    {        "folder": "nations/babylon",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_babylon_plow_of ninurta",        "title": "Plow of Ninurta"    },    {        "folder": "nations/babylon",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_babylon_dividing_the circle",        "title": "Dividing the Circle"    },    {        "folder": "nations/roman-republic",        "cardType": "city",        "placement": "city",        "desc": "Rome, the Eternal City. Might of the Great Empire. The seat of emperors and popes.",        "id": "nations_roman-republic_rome",        "title": "Rome"    },    {        "folder": "nations/roman-republic",        "cardType": "fortification",        "placement": "building",        "desc": "undefined",        "id": "nations_roman-republic_romn_fort",        "title": "Romn Fort"    },    {        "folder": "nations/roman-republic",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_roman-republic_carthage",        "title": "Carthage"    },    {        "folder": "nations/roman-republic",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_roman-republic_trier",        "title": "Trier"    },    {        "folder": "nations/roman-republic",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_roman-republic_nimes",        "title": "Nimes"    },    {        "folder": "nations/roman-republic",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_roman-republic_recruitment",        "title": "Recruitment"    },    {        "folder": "nations/roman-republic",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_roman-republic_forges",        "title": "Forges"    },    {        "folder": "nations/roman-republic",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_roman-republic_annexation",        "title": "Annexation"    },    {        "folder": "nations/roman-republic",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_roman-republic_centurian",        "title": "Centurian"    },    {        "folder": "nations/roman-republic",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_roman-republic_army_labor",        "title": "Army Labor"    },    {        "folder": "nations/roman-republic",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_roman-republic_blockade",        "title": "Blockade"    },    {        "folder": "nations/roman-republic",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_roman-republic_roads_of rome",        "title": "Roads of Rome"    },    {        "folder": "nations/roman-republic",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_roman-republic_paving",        "title": "Paving"    },    {        "folder": "nations/roman-republic",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_roman-republic_toll_roads",        "title": "Toll roads"    },    {        "folder": "nations/roman-republic",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_roman-republic_trading_vessels",        "title": "Trading Vessels"    },    {        "folder": "nations/roman-republic",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_roman-republic_wealth_of aristocrats",        "title": "Wealth of Aristocrats"    },    {        "folder": "nations/roman-republic",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_roman-republic_taxation",        "title": "Taxation"    },    {        "folder": "nations/roman-republic",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_roman-republic_codex",        "title": "Codex"    },    {        "folder": "nations/roman-republic",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_roman-republic_legions",        "title": "Legions"    },    {        "folder": "nations/roman-republic",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_roman-republic_neoplatonism",        "title": "Neoplatonism"    },    {        "folder": "nations/roman-republic",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_roman-republic_concrete",        "title": "Concrete"    },    {        "folder": "nations/greek",        "cardType": "city",        "placement": "city",        "desc": "TODO",        "id": "nations_greek_todo",        "title": "TODO"    },    {        "folder": "nations/greek",        "cardType": "fortification",        "placement": "building",        "desc": "undefined",        "id": "nations_greek_todo",        "title": "TODO"    },    {        "folder": "nations/greek",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_greek_todo",        "title": "TODO"    },    {        "folder": "nations/greek",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_greek_todo",        "title": "TODO"    },    {        "folder": "nations/greek",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_greek_todo",        "title": "TODO"    },    {        "folder": "nations/greek",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_greek_todo",        "title": "TODO"    },    {        "folder": "nations/greek",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_greek_todo",        "title": "TODO"    },    {        "folder": "nations/greek",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_greek_todo",        "title": "TODO"    },    {        "folder": "nations/greek",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_greek_todo",        "title": "TODO"    },    {        "folder": "nations/greek",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_greek_todo",        "title": "TODO"    },    {        "folder": "nations/greek",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_greek_todo",        "title": "TODO"    },    {        "folder": "nations/greek",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_greek_todo",        "title": "TODO"    },    {        "folder": "nations/greek",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_greek_todo",        "title": "TODO"    },    {        "folder": "nations/greek",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_greek_todo",        "title": "TODO"    },    {        "folder": "nations/greek",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_greek_todo",        "title": "TODO"    },    {        "folder": "nations/greek",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_greek_todo",        "title": "TODO"    },    {        "folder": "nations/greek",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_greek_todo",        "title": "TODO"    },    {        "folder": "nations/greek",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_greek_todo",        "title": "TODO"    },    {        "folder": "nations/greek",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_greek_todo",        "title": "TODO"    },    {        "folder": "nations/greek",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_greek_todo",        "title": "TODO"    },    {        "folder": "nations/greek",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_greek_todo",        "title": "TODO"    },    {        "folder": "nations/carthage",        "cardType": "city",        "placement": "city",        "desc": "TODO",        "id": "nations_carthage_todo",        "title": "TODO"    },    {        "folder": "nations/carthage",        "cardType": "fortification",        "placement": "building",        "desc": "undefined",        "id": "nations_carthage_todo",        "title": "TODO"    },    {        "folder": "nations/carthage",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_carthage_todo",        "title": "TODO"    },    {        "folder": "nations/carthage",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_carthage_todo",        "title": "TODO"    },    {        "folder": "nations/carthage",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_carthage_todo",        "title": "TODO"    },    {        "folder": "nations/carthage",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_carthage_todo",        "title": "TODO"    },    {        "folder": "nations/carthage",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_carthage_todo",        "title": "TODO"    },    {        "folder": "nations/carthage",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_carthage_todo",        "title": "TODO"    },    {        "folder": "nations/carthage",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_carthage_todo",        "title": "TODO"    },    {        "folder": "nations/carthage",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_carthage_todo",        "title": "TODO"    },    {        "folder": "nations/carthage",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_carthage_todo",        "title": "TODO"    },    {        "folder": "nations/carthage",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_carthage_todo",        "title": "TODO"    },    {        "folder": "nations/carthage",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_carthage_todo",        "title": "TODO"    },    {        "folder": "nations/carthage",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_carthage_todo",        "title": "TODO"    },    {        "folder": "nations/carthage",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_carthage_todo",        "title": "TODO"    },    {        "folder": "nations/carthage",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_carthage_todo",        "title": "TODO"    },    {        "folder": "nations/carthage",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_carthage_todo",        "title": "TODO"    },    {        "folder": "nations/carthage",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_carthage_todo",        "title": "TODO"    },    {        "folder": "nations/carthage",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_carthage_todo",        "title": "TODO"    },    {        "folder": "nations/carthage",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_carthage_todo",        "title": "TODO"    },    {        "folder": "nations/carthage",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_carthage_todo",        "title": "TODO"    },    {        "folder": "nations/persia",        "cardType": "city",        "placement": "city",        "desc": "TODO",        "id": "nations_persia_todo",        "title": "TODO"    },    {        "folder": "nations/persia",        "cardType": "fortification",        "placement": "building",        "desc": "undefined",        "id": "nations_persia_todo",        "title": "TODO"    },    {        "folder": "nations/persia",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_persia_todo",        "title": "TODO"    },    {        "folder": "nations/persia",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_persia_todo",        "title": "TODO"    },    {        "folder": "nations/persia",        "cardType": "city",        "placement": "city",        "desc": "undefined",        "id": "nations_persia_todo",        "title": "TODO"    },    {        "folder": "nations/persia",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_persia_todo",        "title": "TODO"    },    {        "folder": "nations/persia",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_persia_todo",        "title": "TODO"    },    {        "folder": "nations/persia",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_persia_todo",        "title": "TODO"    },    {        "folder": "nations/persia",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_persia_todo",        "title": "TODO"    },    {        "folder": "nations/persia",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_persia_todo",        "title": "TODO"    },    {        "folder": "nations/persia",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_persia_todo",        "title": "TODO"    },    {        "folder": "nations/persia",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_persia_todo",        "title": "TODO"    },    {        "folder": "nations/persia",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_persia_todo",        "title": "TODO"    },    {        "folder": "nations/persia",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_persia_todo",        "title": "TODO"    },    {        "folder": "nations/persia",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_persia_todo",        "title": "TODO"    },    {        "folder": "nations/persia",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_persia_todo",        "title": "TODO"    },    {        "folder": "nations/persia",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_persia_todo",        "title": "TODO"    },    {        "folder": "nations/persia",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_persia_todo",        "title": "TODO"    },    {        "folder": "nations/persia",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_persia_todo",        "title": "TODO"    },    {        "folder": "nations/persia",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_persia_todo",        "title": "TODO"    },    {        "folder": "nations/persia",        "cardType": "research",        "placement": "research",        "desc": "undefined",        "id": "nations_persia_todo",        "title": "TODO"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_spearmen",        "title": "Spearmen"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_spearmen",        "title": "Spearmen"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_spearmen",        "title": "Spearmen"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_spearmen",        "title": "Spearmen"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_spearmen",        "title": "Spearmen"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_spearmen",        "title": "Spearmen"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_spearmen",        "title": "Spearmen"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_spearmen",        "title": "Spearmen"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_scout",        "title": "Scout"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_scout",        "title": "Scout"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_scout",        "title": "Scout"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_scout",        "title": "Scout"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_warband",        "title": "Warband"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_warband",        "title": "Warband"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_warband",        "title": "Warband"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_warband",        "title": "Warband"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_raiders",        "title": "Raiders"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_raiders",        "title": "Raiders"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_raiders",        "title": "Raiders"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_raiders",        "title": "Raiders"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_warriors",        "title": "Warriors"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_warriors",        "title": "Warriors"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_warriors",        "title": "Warriors"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_warriors",        "title": "Warriors"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_aristocrat",        "title": "Aristocrat"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_aristocrat",        "title": "Aristocrat"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_captain",        "title": "Captain"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_captain",        "title": "Captain"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_captain",        "title": "Captain"    },    {        "folder": "troops/foot",        "cardType": "foot",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_captain",        "title": "Captain"    },    {        "folder": "troops/foot",        "cardType": "foot_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_bowmen",        "title": "Bowmen"    },    {        "folder": "troops/foot",        "cardType": "foot_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_bowmen",        "title": "Bowmen"    },    {        "folder": "troops/foot",        "cardType": "foot_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_bowmen",        "title": "Bowmen"    },    {        "folder": "troops/foot",        "cardType": "foot_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_bowmen",        "title": "Bowmen"    },    {        "folder": "troops/foot",        "cardType": "foot_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_bowmen",        "title": "Bowmen"    },    {        "folder": "troops/foot",        "cardType": "foot_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_bowmen",        "title": "Bowmen"    },    {        "folder": "troops/foot",        "cardType": "foot_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_bowmen",        "title": "Bowmen"    },    {        "folder": "troops/foot",        "cardType": "foot_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_bowmen",        "title": "Bowmen"    },    {        "folder": "troops/foot",        "cardType": "foot_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_archer",        "title": "Archer"    },    {        "folder": "troops/foot",        "cardType": "foot_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_archer",        "title": "Archer"    },    {        "folder": "troops/foot",        "cardType": "foot_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_archer",        "title": "Archer"    },    {        "folder": "troops/foot",        "cardType": "foot_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_archer",        "title": "Archer"    },    {        "folder": "troops/foot",        "cardType": "foot_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_archer",        "title": "Archer"    },    {        "folder": "troops/foot",        "cardType": "foot_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_archer",        "title": "Archer"    },    {        "folder": "troops/foot",        "cardType": "foot_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_archer",        "title": "Archer"    },    {        "folder": "troops/foot",        "cardType": "foot_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_foot_archer",        "title": "Archer"    },    {        "folder": "troops/mounted",        "cardType": "mounted_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_light_horse",        "title": "Light Horse"    },    {        "folder": "troops/mounted",        "cardType": "mounted_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_light_horse",        "title": "Light Horse"    },    {        "folder": "troops/mounted",        "cardType": "mounted_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_light_horse",        "title": "Light Horse"    },    {        "folder": "troops/mounted",        "cardType": "mounted_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_light_horse",        "title": "Light Horse"    },    {        "folder": "troops/mounted",        "cardType": "mounted_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_light_horse",        "title": "Light Horse"    },    {        "folder": "troops/mounted",        "cardType": "mounted_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_light_horse",        "title": "Light Horse"    },    {        "folder": "troops/mounted",        "cardType": "mounted_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_ranger",        "title": "Ranger"    },    {        "folder": "troops/mounted",        "cardType": "mounted_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_ranger",        "title": "Ranger"    },    {        "folder": "troops/mounted",        "cardType": "mounted_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_ranger",        "title": "Ranger"    },    {        "folder": "troops/mounted",        "cardType": "mounted_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_ranger",        "title": "Ranger"    },    {        "folder": "troops/mounted",        "cardType": "mounted_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_mounted_archers",        "title": "Mounted Archers"    },    {        "folder": "troops/mounted",        "cardType": "mounted_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_mounted_archers",        "title": "Mounted Archers"    },    {        "folder": "troops/mounted",        "cardType": "mounted_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_mounted_archers",        "title": "Mounted Archers"    },    {        "folder": "troops/mounted",        "cardType": "mounted_ranged",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_mounted_archers",        "title": "Mounted Archers"    },    {        "folder": "troops/mounted",        "cardType": "mounted",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_knight",        "title": "Knight"    },    {        "folder": "troops/mounted",        "cardType": "mounted",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_knight",        "title": "Knight"    },    {        "folder": "troops/mounted",        "cardType": "mounted",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_knight",        "title": "Knight"    },    {        "folder": "troops/mounted",        "cardType": "mounted",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_knight",        "title": "Knight"    },    {        "folder": "troops/mounted",        "cardType": "mounted",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_advisor",        "title": "Advisor"    },    {        "folder": "troops/mounted",        "cardType": "mounted",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_advisor",        "title": "Advisor"    },    {        "folder": "troops/mounted",        "cardType": "mounted",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_general",        "title": "General"    },    {        "folder": "troops/mounted",        "cardType": "mounted",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_general",        "title": "General"    },    {        "folder": "troops/mounted",        "cardType": "mounted",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_king",        "title": "King"    },    {        "folder": "troops/mounted",        "cardType": "mounted",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_king",        "title": "King"    },    {        "folder": "troops/mounted",        "cardType": "mounted",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_emperor",        "title": "Emperor"    },    {        "folder": "troops/mounted",        "cardType": "mounted",        "placement": "army",        "desc": "undefined",        "id": "troops_mounted_emperor",        "title": "Emperor"    },    {        "folder": "troops/siege-engine",        "cardType": "siege_engine",        "placement": "army",        "desc": "undefined",        "id": "troops_siege-engine_caravan",        "title": "Caravan"    },    {        "folder": "troops/siege-engine",        "cardType": "siege_engine",        "placement": "army",        "desc": "undefined",        "id": "troops_siege-engine_caravan",        "title": "Caravan"    },    {        "folder": "troops/siege-engine",        "cardType": "siege_engine",        "placement": "army",        "desc": "undefined",        "id": "troops_siege-engine_caravan",        "title": "Caravan"    },    {        "folder": "troops/siege-engine",        "cardType": "siege_engine",        "placement": "army",        "desc": "undefined",        "id": "troops_siege-engine_caravan",        "title": "Caravan"    },    {        "folder": "troops/siege-engine",        "cardType": "siege_engine",        "placement": "army",        "desc": "undefined",        "id": "troops_siege-engine_catapult",        "title": "Catapult"    },    {        "folder": "troops/siege-engine",        "cardType": "siege_engine",        "placement": "army",        "desc": "undefined",        "id": "troops_siege-engine_catapult",        "title": "Catapult"    },    {        "folder": "troops/siege-engine",        "cardType": "siege_engine",        "placement": "army",        "desc": "undefined",        "id": "troops_siege-engine_catapult",        "title": "Catapult"    },    {        "folder": "troops/siege-engine",        "cardType": "siege_engine",        "placement": "army",        "desc": "undefined",        "id": "troops_siege-engine_catapult",        "title": "Catapult"    },    {        "folder": "troops/siege-engine",        "cardType": "siege_engine",        "placement": "army",        "desc": "undefined",        "id": "troops_siege-engine_trebuchet",        "title": "Trebuchet"    },    {        "folder": "troops/siege-engine",        "cardType": "siege_engine",        "placement": "army",        "desc": "undefined",        "id": "troops_siege-engine_trebuchet",        "title": "Trebuchet"    },    {        "folder": "troops/siege-engine",        "cardType": "siege_engine",        "placement": "army",        "desc": "undefined",        "id": "troops_siege-engine_trebuchet",        "title": "Trebuchet"    },    {        "folder": "troops/siege-engine",        "cardType": "siege_engine",        "placement": "army",        "desc": "undefined",        "id": "troops_siege-engine_trebuchet",        "title": "Trebuchet"    },    {        "folder": "troops/siege-engine",        "cardType": "siege_engine",        "placement": "army",        "desc": "undefined",        "id": "troops_siege-engine_supply_wagon",        "title": "Supply wagon"    },    {        "folder": "troops/siege-engine",        "cardType": "siege_engine",        "placement": "army",        "desc": "undefined",        "id": "troops_siege-engine_supply_wagon",        "title": "Supply wagon"    },    {        "folder": "troops/siege-engine",        "cardType": "siege_engine",        "placement": "army",        "desc": "undefined",        "id": "troops_siege-engine_supply_wagon",        "title": "Supply wagon"    },    {        "folder": "troops/siege-engine",        "cardType": "siege_engine",        "placement": "army",        "desc": "undefined",        "id": "troops_siege-engine_supply_wagon",        "title": "Supply wagon"    },    {        "folder": "troops/siege-engine",        "cardType": "siege_engine",        "placement": "army",        "desc": "undefined",        "id": "troops_siege-engine_supply_wagon",        "title": "Supply wagon"    },    {        "folder": "troops/siege-engine",        "cardType": "siege_engine",        "placement": "army",        "desc": "undefined",        "id": "troops_siege-engine_supply_wagon",        "title": "Supply wagon"    },    {        "folder": "troops/siege-engine",        "cardType": "siege_engine",        "placement": "army",        "desc": "undefined",        "id": "troops_siege-engine_supply_wagon",        "title": "Supply wagon"    },    {        "folder": "troops/siege-engine",        "cardType": "siege_engine",        "placement": "army",        "desc": "undefined",        "id": "troops_siege-engine_supply_wagon",        "title": "Supply wagon"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_farm",        "title": "Farm"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_farm",        "title": "Farm"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_farm",        "title": "Farm"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_farm",        "title": "Farm"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_farm",        "title": "Farm"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_large_farm",        "title": "Large Farm"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_large_farm",        "title": "Large Farm"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_large_farm",        "title": "Large Farm"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_large_farm",        "title": "Large Farm"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_large_farm",        "title": "Large Farm"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_lumber_mill",        "title": "Lumber Mill"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_lumber_mill",        "title": "Lumber Mill"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_lumber_mill",        "title": "Lumber Mill"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_lumber_mill",        "title": "Lumber Mill"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_lumber_mill",        "title": "Lumber Mill"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_large_lumber mill",        "title": "Large Lumber Mill"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_large_lumber mill",        "title": "Large Lumber Mill"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_large_lumber mill",        "title": "Large Lumber Mill"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_large_lumber mill",        "title": "Large Lumber Mill"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_mine",        "title": "Mine"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_mine",        "title": "Mine"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_mine",        "title": "Mine"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_mine",        "title": "Mine"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_large_mine",        "title": "Large Mine"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_large_mine",        "title": "Large Mine"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_large_mine",        "title": "Large Mine"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_large_mine",        "title": "Large Mine"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_market",        "title": "Market"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_market",        "title": "Market"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_market",        "title": "Market"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_market",        "title": "Market"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_market",        "title": "Market"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_market",        "title": "Market"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_market",        "title": "Market"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_market",        "title": "Market"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_temple",        "title": "Temple"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_temple",        "title": "Temple"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_temple",        "title": "Temple"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_temple",        "title": "Temple"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_university",        "title": "University"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_university",        "title": "University"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_university",        "title": "University"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_university",        "title": "University"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_palace",        "title": "Palace"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_palace",        "title": "Palace"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_palace",        "title": "Palace"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_palace",        "title": "Palace"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_grainery",        "title": "Grainery"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_grainery",        "title": "Grainery"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_grainery",        "title": "Grainery"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_grainery",        "title": "Grainery"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_sawmill",        "title": "Sawmill"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_sawmill",        "title": "Sawmill"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_sawmill",        "title": "Sawmill"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_sawmill",        "title": "Sawmill"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_refinery",        "title": "Refinery"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_refinery",        "title": "Refinery"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_refinery",        "title": "Refinery"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_refinery",        "title": "Refinery"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_banquet_hall",        "title": "Banquet Hall"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_the_grand bridge",        "title": "The Grand Bridge"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_marbled_decorum",        "title": "Marbled Decorum"    },    {        "folder": "buildings/civic",        "cardType": "civic_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_civic_kings_gifts",        "title": "Kings Gifts"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_barracks",        "title": "Barracks"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_barracks",        "title": "Barracks"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_barracks",        "title": "Barracks"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_barracks",        "title": "Barracks"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_barracks",        "title": "Barracks"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_barracks",        "title": "Barracks"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_barracks",        "title": "Barracks"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_barracks",        "title": "Barracks"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_barracks",        "title": "Barracks"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_barracks",        "title": "Barracks"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_stable",        "title": "Stable"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_stable",        "title": "Stable"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_stable",        "title": "Stable"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_stable",        "title": "Stable"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_stable",        "title": "Stable"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_stable",        "title": "Stable"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_stable",        "title": "Stable"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_stable",        "title": "Stable"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_siege_factory",        "title": "Siege Factory"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_siege_factory",        "title": "Siege Factory"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_siege_factory",        "title": "Siege Factory"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_siege_factory",        "title": "Siege Factory"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_siege_factory",        "title": "Siege Factory"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_siege_factory",        "title": "Siege Factory"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_siege_factory",        "title": "Siege Factory"    },    {        "folder": "buildings/military",        "cardType": "military_building",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_siege_factory",        "title": "Siege Factory"    },    {        "folder": "buildings/military",        "cardType": "fortification",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_tower",        "title": "Tower"    },    {        "folder": "buildings/military",        "cardType": "fortification",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_tower",        "title": "Tower"    },    {        "folder": "buildings/military",        "cardType": "fortification",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_tower",        "title": "Tower"    },    {        "folder": "buildings/military",        "cardType": "fortification",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_tower",        "title": "Tower"    },    {        "folder": "buildings/military",        "cardType": "fortification",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_fort",        "title": "Fort"    },    {        "folder": "buildings/military",        "cardType": "fortification",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_fort",        "title": "Fort"    },    {        "folder": "buildings/military",        "cardType": "fortification",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_fort",        "title": "Fort"    },    {        "folder": "buildings/military",        "cardType": "fortification",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_fort",        "title": "Fort"    },    {        "folder": "buildings/military",        "cardType": "fortification",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_castle",        "title": "Castle"    },    {        "folder": "buildings/military",        "cardType": "fortification",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_castle",        "title": "Castle"    },    {        "folder": "buildings/military",        "cardType": "fortification",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_castle",        "title": "Castle"    },    {        "folder": "buildings/military",        "cardType": "fortification",        "placement": "building",        "desc": "undefined",        "id": "buildings_military_castle",        "title": "Castle"    },    {        "folder": "buildings/wonders",        "cardType": "wonder",        "placement": "building",        "desc": "undefined",        "id": "buildings_wonders_colosseum",        "title": "Colosseum"    },    {        "folder": "buildings/wonders",        "cardType": "wonder",        "placement": "building",        "desc": "undefined",        "id": "buildings_wonders_hagia_sophia",        "title": "Hagia Sophia"    },    {        "folder": "buildings/wonders",        "cardType": "wonder",        "placement": "building",        "desc": "undefined",        "id": "buildings_wonders_pyramids_of giza",        "title": "Pyramids of Giza"    },    {        "folder": "buildings/wonders",        "cardType": "wonder",        "placement": "building",        "desc": "undefined",        "id": "buildings_wonders_parthenon",        "title": "Parthenon"    },    {        "folder": "buildings/wonders",        "cardType": "wonder",        "placement": "building",        "desc": "undefined",        "id": "buildings_wonders_mosque_of mecca",        "title": "Mosque of Mecca"    },    {        "folder": "buildings/wonders",        "cardType": "wonder",        "placement": "building",        "desc": "undefined",        "id": "buildings_wonders_taj_mahal",        "title": "Taj Mahal"    },    {        "folder": "buildings/wonders",        "cardType": "wonder",        "placement": "building",        "desc": "undefined",        "id": "buildings_wonders_lighthouse_of alexandria",        "title": "Lighthouse of Alexandria"    },    {        "folder": "buildings/wonders",        "cardType": "wonder",        "placement": "building",        "desc": "undefined",        "id": "buildings_wonders_tikal",        "title": "Tikal"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_balanced_economy",        "title": "Balanced Economy"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_horded_goods",        "title": "Horded Goods"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_advanced_economy",        "title": "Advanced Economy"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_great_knowledge",        "title": "Great Knowledge"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_wonderous_empire",        "title": "Wonderous Empire"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_thieves_of ambition",        "title": "Thieves of Ambition"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_balanced_army",        "title": "Balanced Army"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_overwhelming_training",        "title": "Overwhelming Training"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_support_of the land",        "title": "Support of the Land"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_great_power",        "title": "Great Power"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_abundant_faith",        "title": "Abundant Faith"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_abundant_knowledge",        "title": "Abundant Knowledge"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_great_defenses",        "title": "Great Defenses"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_grand_army",        "title": "Grand Army"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_greatest_production",        "title": "Greatest Production"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_grand_strategy",        "title": "Grand Strategy"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_great_leadership",        "title": "Great Leadership"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_sea_lords",        "title": "Sea Lords"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_rulers_of the steppe",        "title": "Rulers of the Steppe"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_rulers_of the field",        "title": "Rulers of the Field"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_rulers_of the forest",        "title": "Rulers of the Forest"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_rulers_of the mountains",        "title": "Rulers of the Mountains"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_grand_nation",        "title": "Grand Nation"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_first_wonder",        "title": "First Wonder"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_first_wonder",        "title": "First Wonder"    },    {        "folder": "objectives",        "cardType": "white_victory_point",        "placement": "white_victory_point",        "desc": "undefined",        "id": "objectives_first_wonder",        "title": "First Wonder"    }]

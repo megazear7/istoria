@@ -55,7 +55,7 @@ function makeCards() {
     saveCardData(cards);
 
     // Override the card list here;
-    cards = egyptianCards();
+    cards = [egyptianCards()[0]];
 
     var finalCards = [];
     for (var i = 0; i < cards.length; i++) {
@@ -67,21 +67,37 @@ function makeCards() {
     return finalCards;
 }
 
+function arrayContains(arr, element) {
+    for (var i = 0; i < arr.length; i++) {
+        var tmp = arr[i];
+        if (tmp === element) {
+            return true;
+        }
+    }
+
+    return false;
+}
+
 function saveCardData(cards) {
     var jsonString = "[\n";
+    var ids = [];
     for (var i = 0; i < cards.length; i++) {
         var card = cards[i];
-        jsonString += "    {\n";
-        jsonString += "        \"folder\": \"" + card["folder"] + "\",\n";
-        jsonString += "        \"cardType\": \"" + card["cardType"] + "\",\n";
-        jsonString += "        \"placement\": \"" + card["placement"] + "\",\n";
-        jsonString += "        \"desc\": \"" + card["desc"] + "\",\n";
-        jsonString += "        \"title\": \"" + card["title"] + "\"\n";
-        jsonString += "    }";
-        if (i < cards.length - 1) {
-            jsonString += ",";
+        id = card["folder"].replace("/", "_") + "_" + card["title"].replace(" ", "_").toLowerCase();
+        if (!arrayContains(ids, id)) {
+            jsonString += "    {\n";
+            jsonString += "        \"folder\": \"" + card["folder"] + "\",\n";
+            jsonString += "        \"cardType\": \"" + card["cardType"] + "\",\n";
+            jsonString += "        \"placement\": \"" + card["placement"] + "\",\n";
+            jsonString += "        \"desc\": \"" + card["desc"] + "\",\n";
+            jsonString += "        \"id\": \"" + id + "\",\n";
+            jsonString += "        \"title\": \"" + card["title"] + "\"\n";
+            jsonString += "    }";
+            if (i < cards.length - 1) {
+                jsonString += ",";
+            }
+            jsonString += "\n";
         }
-        jsonString += "\n";
     }
     jsonString += "]";
     saveStringToFile("cards.json", jsonString);
