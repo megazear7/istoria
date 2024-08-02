@@ -55,7 +55,14 @@ function makeCards() {
     saveCardData(cards);
 
     // Override the card list here;
-    cards = [egyptianCards()[0]];
+    cards = [
+        sumerianCards()[0],
+        sumerianCards()[1],
+        sumerianCards()[2],
+        sumerianCards()[3],
+        sumerianCards()[4],
+        sumerianCards()[5]
+    ];
 
     var finalCards = [];
     for (var i = 0; i < cards.length; i++) {
@@ -94,7 +101,7 @@ function saveCardData(cards) {
             jsonString += "        \"id\": \"" + id + "\",\n";
             jsonString += "        \"title\": \"" + card["title"] + "\"\n";
             jsonString += "    }";
-            if (i < cards.length - 1) {
+            if (i < cards.length) {
                 jsonString += ",";
             }
             jsonString += "\n";

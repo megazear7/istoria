@@ -11,7 +11,7 @@ photofoundry(makeCards(), {
 });
 
 function mapping(item) {
-    id = item["folder"].replace("/", "_") + "_" + item["title"].replace(" ", "_").toLowerCase();
+    id = item["folder"].replace(/\//ig, "_") + "_" + item["title"].replace(/ /ig, "_").toLowerCase();
 
     var newItem = {
         toggles: [
