@@ -29,18 +29,18 @@ $.evalFile(activeDocument.path.fullName + "/cards/" + "objectives.js");
 function makeCards() {
     var cards = [];
 
-    cards = cards.concat(sumerianCards());
-    cards = cards.concat(akkadianCards());
+    // cards = cards.concat(sumerianCards());
+    // cards = cards.concat(akkadianCards());
 
     cards = cards.concat(egyptianCards());
     cards = cards.concat(minoanCards());
     cards = cards.concat(hittiteCards());
     cards = cards.concat(babylonianCards());
 
-    cards = cards.concat(romanRepublicCards());
-    cards = cards.concat(greekCards());
-    cards = cards.concat(carthaginianCards());
-    cards = cards.concat(persianCards());
+    // cards = cards.concat(romanRepublicCards());
+    // cards = cards.concat(greekCards());
+    // cards = cards.concat(carthaginianCards());
+    // cards = cards.concat(persianCards());
     
     cards = cards.concat(footTroops());
     cards = cards.concat(mountedTroops());
@@ -55,14 +55,7 @@ function makeCards() {
     saveCardData(cards);
 
     // Override the card list here;
-    cards = [
-        sumerianCards()[0],
-        sumerianCards()[1],
-        sumerianCards()[2],
-        sumerianCards()[3],
-        sumerianCards()[4],
-        sumerianCards()[5]
-    ];
+    cards = [ egyptianCards()[0] ];
 
     var finalCards = [];
     for (var i = 0; i < cards.length; i++) {
@@ -90,7 +83,7 @@ function saveCardData(cards) {
     var ids = [];
     for (var i = 0; i < cards.length; i++) {
         var card = cards[i];
-        id = card["folder"].replace(/\//ig, "_") + "_" + card["title"].replace(/ /ig, "_").toLowerCase();
+        id = card["folder"].replace(/[^a-zA-Z0-9]/ig, "_") + "_" + card["title"].replace(/[^a-zA-Z0-9]/ig, "_").toLowerCase();
         if (!arrayContains(ids, id)) {
             ids.push(id);
             jsonString += "    {\n";
@@ -101,7 +94,8 @@ function saveCardData(cards) {
             jsonString += "        \"id\": \"" + id + "\",\n";
             jsonString += "        \"title\": \"" + card["title"] + "\"\n";
             jsonString += "    }";
-            if (i < cards.length) {
+            // TODO: Figure out what is this -3 doing here!
+            if (i < cards.length - 3) {
                 jsonString += ",";
             }
             jsonString += "\n";

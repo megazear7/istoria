@@ -18,7 +18,7 @@ function romanRepublicCards() {
         }, {
             "cardType": "fortification",
             "folder": "nations/roman-republic",
-            "title": "Romn Fort",
+            "title": "Roman Fort",
             "subTitle": "Rome - Starting Fort",
             "placement": "building",
             "image": "rome",
