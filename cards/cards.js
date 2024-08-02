@@ -83,7 +83,7 @@ function saveCardData(cards) {
     var ids = [];
     for (var i = 0; i < cards.length; i++) {
         var card = cards[i];
-        id = card["folder"].replace("/", "_") + "_" + card["title"].replace(" ", "_").toLowerCase();
+        id = card["folder"].replace(/\//ig, "_") + "_" + card["title"].replace(/ /ig, "_").toLowerCase();
         if (!arrayContains(ids, id)) {
             ids.push(id);
             jsonString += "    {\n";
